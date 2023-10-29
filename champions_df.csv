@@ -1,0 +1,17 @@
+,Name,Gender,Position,Species,Resource,Range_type,Region,Release_year
+0,Aatrox,Male,Top,Darkin,Manaless,Melee,"['Runeterra', 'Shurima']",2013
+1,Ahri,Female,Middle,Vastayan,Mana,Ranged,Shurima,2011
+2,Akali,Female,"['Middle', 'Top']",Human,Mana,Ranged,Shurima,2021
+3,Alistar,Male,Support,Minotaur,Mana,Melee,Runeterra,2009
+4,Amumu,Male,"['Jungle', 'Support']","['Undead', 'Yordle']",Mana,Melee,Shurima,2009
+5,Anivia,Female,Middle,"['God', 'Spirit']",Mana,Ranged,Freljord,2009
+6,Annie,Female,"['Middle', 'Support']","['Human', 'Magicborn']",Mana,Ranged,"['Noxus', 'Runeterra']",2009
+7,Aphelios,Male,Bottom,"['Human', 'Spiritualist']",Mana,Ranged,Targon,2019
+8,Ashe,Female,"['Bottom', 'Support']","['Human', 'Iceborn']",Mana,Ranged,Freljord,2009
+9,Aurelion Sol,Male,Middle,"['Celestial', 'Dragon']",Mana,Ranged,"['Runeterra', 'Targon']",2016
+10,Azir,Male,Middle,God-Warrior,Mana,Ranged,Shurima,2014
+11,Bard,Male,Support,Celestial,Mana,Ranged,Runeterra,2015
+12,Bel'Veth,Female,Jungle,Void-Being,Manaless,Melee,Void,2022
+13,Blitzcrank,Other,Support,Golem,Mana,Melee,Zaun,2009
+14,Brand,Male,Support,"['Human', 'Magically Altered']",Mana,Ranged,"['Freljord', 'Runeterra']",2011
+15,Braum,Male,Support,"['Human', 'Iceborn']",Mana,Melee,Freljord,2014
