@@ -28,3 +28,68 @@
 26,Elise,Female,Jungle,"['Human', 'Magically Altered']",Mana,"['Melee', 'Ranged']","['Noxus', 'Shadow Isles']",2012
 27,Evelynn,Female,Jungle,"['Demon', 'Spirit']",Mana,Melee,Runeterra,2009
 28,Ezreal,Male,Bottom,"['Human', 'Magicborn']",Mana,Ranged,Piltover,2010
+29,Fiddlesticks,Other,Jungle,"['Demon', 'Spirit']",Mana,Ranged,Runeterra,2009
+30,Fiora,Female,Top,Human,Mana,Melee,Demacia,2012
+31,Fizz,Male,Middle,Yordle,Mana,Melee,Bilgewater,2011
+32,Galio,Male,"['Middle', 'Support']",Golem,Mana,Melee,Demacia,2010
+33,Gangplank,Male,Top,Human,Mana,Melee,Bilgewater,2009
+34,Garen,Male,Top,Human,Manaless,Melee,Demacia,2010
+35,Gnar,Male,Top,Yordle,Rage,"['Melee', 'Ranged']",Freljord,2014
+36,Gragas,Male,"['Jungle', 'Top']",Human,Mana,Melee,Freljord,2010
+37,Graves,Male,Jungle,Human,Mana,Ranged,Bilgewater,2011
+38,Gwen,Female,Top,"['Human', 'Magically Altered']",Mana,Melee,"['Camavor', 'Shadow Isles']",2021
+39,Heimerdinger,Male,"['Middle', 'Support']",Yordle,Mana,Ranged,Piltover,2009
+40,Hecarim,Male,Jungle,Undead,Mana,Melee,"['Camavor, Shadow Isles']",2012
+41,Illaoi,Female,Top,"['Human', 'Spiritualist']",Mana,Melee,Bilgewater,2015
+42,Irelia,Female,"['Middle', 'Top']","['Human', 'Spiritualist']",Mana,Melee,Ionia,2010
+43,Ivern,Male,Jungle,"['Human', 'Magically Altered']",Mana,Ranged,"['Freljord', 'Ionia']",2016
+44,Janna,Female,Support,"['God', 'Spirit']",Mana,Ranged,"['Shurima', 'Zaun']",2009
+45,Jarvan IV,Male,Jungle,Human,Mana,Melee,Demacia,2011
+46,Jax,Male,"['Jungle', 'Top']",Unknown,Mana,Melee,"['Icathia', 'Runeterra', 'Shurima']",2009
+47,Jayce,Male,"['Middle', 'Top']",Human,Mana,"['Melee', 'Ranged']",Piltover,2012
+48,Jhin,Male,Bottom,"['Human', 'Spiritualist']",Mana,Ranged,Ionia,2016
+49,Jinx,Female,Bottom,"['Chemically Altered', 'Human']",Mana,Ranged,Zaun,2013
+50,LeBlanc,Female,Middle,"['Human', 'Magically Altered']",Mana,Ranged,Noxus,2010
+51,Lee Sin,Male,Jungle,"['Human', 'Spiritualist']",Energy,Melee,Ionia,2011
+52,Leona,Female,Support,"['Aspect', 'Human']",Mana,Melee,Targon,2011
+53,Lillia,Female,Jungle,Spirit,Mana,Melee,Ionia,2020
+54,Lissandra,Female,Middle,"['Human', 'Iceborn']",Mana,Ranged,Freljord,2013
+55,Lucian,Male,Bottom,Human,Mana,Ranged,"['Demacia', 'Shadow Isles']",2013
+56,Lulu,Female,Support,Yordle,Mana,Ranged,Bandle City,2012
+57,Lux,Female,"['Middle', 'Support']","['Human', 'Magicborn']",Mana,Ranged,Demacia,2010
+58,Malphite,Male,Top,Golem,Mana,Melee,"['Ixtal', 'Shurima']",2009
+59,Malzahar,Male,Middle,"['Human', 'Void-Being']",Mana,Ranged,"['Shurima', 'Void']",2010
+60,Maokai,Male,"['Jungle', 'Support']",Spirit,Mana,Melee,Shadow Isles,2011
+61,Master Yi,Male,Jungle,"['Human', 'Spiritualist']",Mana,Melee,Ionia,2009
+62,Millio,Male,Support,"['Human', 'Magicborn']",Mana,Ranged,Ixtal,2023
+63,Miss Fortune,Female,Bottom,Human,Mana,Ranged,Bilgewater,2010
+64,Mordekaiser,Male,Top,Revenant,Shield,Melee,Noxus,2010
+65,Morgana,Female,Support,"['Aspect', 'Human', 'Magically Altered']",Mana,Ranged,"['Demacia', 'Targon']",2009
+66,Naafiri,Female,Middle,"['Darkin', 'Dog']",Mana,Melee,Shurima,2023
+67,Nami,Female,Support,Vastayan,Mana,Ranged,"['Shurima', 'Void']",2010
+68,Nasus,Male,Top,God-Warrior,Mana,Melee,Shurima,2009
+69,Nautilus,Male,Support,Revenant,Mana,Melee,Bilgewater,2012
+70,Neeko,Female,"['Middle', 'Support']",Vastayan,Mana,Ranged,Ixtal,2018
+71,Nidalee,Female,Jungle,"['Human', 'Spiritualist']",Mana,Ranged,Ixtal,2009
+72,Nilah,Female,Bottom,"['Human', 'MAgically Altered']",Mana,Melee,Bilgewater,2022
+73,Nocturne,Male,Jungle,"['Demon', 'Spirit']",Mana,Melee,Runeterra,2011
+74,Nunu & Willump,Male,Jungle,"['Human', 'Yeti']",Mana,Melee,Freljord,2009
+75,Olaf,Male,"['Jungle', 'Top']","['Human', 'Iceborn']",Mana,Melee,Freljord,2010
+76,Orianna,Female,Middle,Golem,Mana,Ranged,Piltover,2011
+77,Ornn,Male,Top,"['God', 'Spirit']",Mana,Melee,Freljord,2017
+78,Pantheon,Male,"['Middle', 'Support', 'Top']","['Aspect', 'Human']",Mana,Melee,Targon,2010
+79,Poppy,Female,"['Jungle', 'Top']",Yordle,Mana,Melee,Demacia,2010
+80,Pyke,Male,Support,Revenant,Mana,Melee,Bilgewater,2018
+81,Qiyana,Female,Middle,"['Human', 'Magicborn']",Mana,Melee,Ixtal,2019
+82,Quinn,Female,Top,Human,Mana,Ranged,Demacia,2013
+83,Udyr,Male,"['Jungle', 'Top']","['Human', 'Spiritualist']",Mana,Melee,"['Freljord', 'Ionia']",2009
+84,Urgot,Male,Top,"['Chemically Altered', 'Cyborg', 'Human']",Mana,Ranged,"['Noxus', 'Zaun']",2010
+85,Warwick,Male,"['Jungle', 'Top']","['Chemically Altered', 'Cyborg', 'Human']",Mana,Melee,Zaun,2009
+86,Wukong,Male,"['Jungle', 'Top']",Vastayan,Mana,Melee,Ionia,2011
+87,Xayah,Female,Bottom,Vastayan,Mana,Ranged,Ionia,2017
+88,Xerath,Male,"['Middle', 'Support']",God-Warrior,Mana,Ranged,Shurima,2011
+89,Xin Zhao,Male,Jungle,Human,Mana,Melee,"['Demacia', 'Ionia', 'Noxus']",2010
+90,Yasuo,Male,Middle,"['Human', 'Magicborn']",Flow,Melee,Ionia,2013
+91,Yone,Male,"['Middle', 'Top']","['Human', 'Magically Altered']",Manaless,Melee,Ioina,2020
+92,Yorick,Male,Top,"['Human', 'Magically Altered']",Mana,Melee,Shadow Isles,2011
+93,Yuumi,Female,Support,"['Cat', 'Magically Altered']",Mana,Ranged,Bandle City ,2019
