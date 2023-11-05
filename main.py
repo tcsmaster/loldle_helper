@@ -9,4 +9,3 @@ guess_color_scheme = str(
 ).upper()
 guess = Guess(guess_champ, guess_color_scheme)
 next_best_guess = guess.best_guess(relations_df)
-while len(guess)
