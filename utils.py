@@ -27,9 +27,9 @@ class Guess():
         df:pd.DataFrame
         ) -> list:
         return_list = df.loc[
-            (df['Guessed_Champion'] == self.champ)\
+            (df['Guessed_Champion'] == self.champion)\
             & (df['Comparison'] == self.color_answer)
-        ]['Actual_Champions'].to_list()
+        ]['Actual_Champion'].to_list()
         return return_list
 
     def champ_entropy(
@@ -47,7 +47,7 @@ class Guess():
         df:pd.DataFrame
         ) -> str:
         candidates_list = self.matching_champs(df=df)
-        entropy_dict = {el:self.champ_entropy(el, df) for el in candidates_list}
+        entropy_dict = {el:self.champ_entropy(df) for el in candidates_list}
         sorted_entropy = sorted(
             entropy_dict.items(),
             key=lambda item: item[1],
