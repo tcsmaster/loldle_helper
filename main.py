@@ -8,4 +8,5 @@ guess_color_scheme = str(
     input('What were the colors for the given guess?')
 ).upper()
 guess = Guess(guess_champ, guess_color_scheme)
-next_best_guess = guess.best_guess(relations_df)
+while len(guess.matching_champs()) > 1:
+    next_best_guess = guess.best_guess(relations_df)
