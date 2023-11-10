@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from itertools import combinations
+from itertools import product
 from pydantic import BaseModel
 from typing import List
 from scipy.stats import entropy
@@ -16,72 +16,49 @@ class Champion(BaseModel):
         Region: str|List[str]
         Release_year:int
 
-class Guess():
+def get_all_possible_matches(
+    champions:List,
+    df:pd.DataFrame
+    ) -> pd.DataFrame:
+    possible_matches = df.loc[
+    (df['Guessed_Champion'].isin(champions))\
+    |(df['Actual_Champion'].isin(champions))
+    ]
+    return possible_matches
 
-    def __init__(
-        self,
-        champion,
-        color_answer
-        ):
-        self.champion = champion
-        self.color_answer = color_answer
-    
-    def get_all_possible_matches(
-        champions:List,
-        df:pd.DataFrame
-        ) -> pd.DataFrame:
-        possible_matches = df.loc[
-            (df['Guessed_Champion'].isin(champions))\
-            &(df['Actual_Champion'].isin(champions))
-        ]
-        return possible_matches
+def match_candidates_for_champ(champion,color_answer,df:pd.DataFrame) -> list:
+    return_list = df.loc[
+        (df['Guessed_Champion'] == champion)\
+        & (df['Comparison'] == color_answer)
+    ]['Actual_Champion'].to_list()
+    return return_list
 
-    def match_candidates_for_champ(self,df:pd.DataFrame) -> list:
-        return_list = df.loc[
-            (df['Guessed_Champion'] == self.champion)\
-            & (df['Comparison'] == self.color_answer)
-        ]['Actual_Champion'].to_list()
-        return return_list
+def champ_entropy(champion,df:pd.DataFrame) -> float:
+    champ_probs = (
+        df.loc[(df['Guessed_Champion'] == champion)\
+        |(df['Actual_Champion'] == champion)]['Comparison']\
+    .value_counts()
+    ).to_numpy()
+    return entropy(pk=champ_probs)
 
-    def champ_entropy(self,df:pd.DataFrame) -> float:
-        champ_probs = (
-            df.loc[(df['Guessed_Champion'] == self.champion)\
-            |(df['Actual_Champion'] == self.champion)]['Comparison']\
-        .value_counts()
-        ).to_numpy()
-        return entropy(pk=champ_probs)
-
-    def next_best_guess(self,df:pd.DataFrame) -> str:
-        candidates_list = self.match_candidates_for_champ(df=df)
-        entropy_dict = {el:self.champ_entropy(df) for el in candidates_list}
-        sorted_entropy = sorted(
-            entropy_dict.items(),
-            key=lambda item: item[1],
-            reverse=True
-        )
-        return sorted_entropy
+def next_best_guess(df:pd.DataFrame) -> str:
+    candidates_list = match_candidates_for_champ(df=df)
+    entropy_dict = {el:champ_entropy(df) for el in candidates_list}
+    sorted_entropy = sorted(
+        entropy_dict.items(),
+        key=lambda item: item[1],
+        reverse=True
+    )
+    return sorted_entropy
 
 def get_comparison_from_champs(df):
     a = [Champion(**df.iloc[i, :]) for i in range(df.shape[0])]
-    combi = combinations(a, 2)
 
-    df = pd.DataFrame(columns = ['Guessed_Champion', 'Actual_Champion', 'Comparison'])
-    for el in combi:
-        df = pd.concat(
-            [
-                df,
-                pd.DataFrame(
-                    [
-                        {
-                            'Guessed_Champion':el[0].Name,
-                            'Actual_Champion':el[1].Name,
-                            'Comparison':get_result_of_comparison(*el)
-                        }
-                    ]
-                )
-            ]
-        )
-    return df
+    relations = [[0]*len(a) for _ in range(len(a))]
+    for i in range(len(a)):
+        for j in range(len(a)):
+            relations[i][j] = get_result_of_comparison(a[i], a[j])
+    return relations
 
 def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champion) -> str:
     result = ''
@@ -117,3 +94,7 @@ def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champ
                 else:
                     result += 'R'
     return result
+
+def champion_index_mapper(df):
+    champions_index_mapper = {el[0]:el[1] for el in zip(df.index.values, df['Name'].values)}
+    return champion_index_mapper
