@@ -18,42 +18,48 @@ class Champion(BaseModel):
 
 class Guess():
 
-    def __init__(self, champion, color_answer):
+    def __init__(
+        self,
+        champion,
+        color_answer
+        ):
         self.champion = champion
         self.color_answer = color_answer
     
-    def matching_champs(
-        self,
+    def get_all_possible_matches(
+        champions:List,
         df:pd.DataFrame
-        ) -> list:
+        ) -> pd.DataFrame:
+        possible_matches = df.loc[
+            (df['Guessed_Champion'].isin(champions))\
+            &(df['Actual_Champion'].isin(champions))
+        ]
+        return possible_matches
+
+    def match_candidates_for_champ(self,df:pd.DataFrame) -> list:
         return_list = df.loc[
             (df['Guessed_Champion'] == self.champion)\
             & (df['Comparison'] == self.color_answer)
         ]['Actual_Champion'].to_list()
         return return_list
 
-    def champ_entropy(
-        self,
-        df:pd.DataFrame
-        ) -> float:
+    def champ_entropy(self,df:pd.DataFrame) -> float:
         champ_probs = (
-            df.loc[df['Guessed_Champion'] == self.champion]['Comparison']\
+            df.loc[(df['Guessed_Champion'] == self.champion)\
+            |(df['Actual_Champion'] == self.champion)]['Comparison']\
         .value_counts()
         ).to_numpy()
         return entropy(pk=champ_probs)
 
-    def best_guess(
-        self,
-        df:pd.DataFrame
-        ) -> str:
-        candidates_list = self.matching_champs(df=df)
+    def next_best_guess(self,df:pd.DataFrame) -> str:
+        candidates_list = self.match_candidates_for_champ(df=df)
         entropy_dict = {el:self.champ_entropy(df) for el in candidates_list}
         sorted_entropy = sorted(
             entropy_dict.items(),
             key=lambda item: item[1],
             reverse=True
         )
-        return sorted_entropy[0][0]
+        return sorted_entropy
 
 def get_comparison_from_champs(df):
     a = [Champion(**df.iloc[i, :]) for i in range(df.shape[0])]
