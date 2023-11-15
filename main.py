@@ -20,6 +20,12 @@ def main():
                 relations_df
             )
         )
+        while len(candidate_champs) == 0:
+            print(
+                """It appears as there is no matching champion.
+                   Please make sure to give the correct answer you got from the website.
+                """
+            )
         next_champ_guess = next_best_guess(
             candidate_champs,
             guess.get_all_possible_matches(
