@@ -17,7 +17,7 @@ class Champion(BaseModel):
         Release_year:int
 
 class Guess():
-    def __init__(self,champion, color_code,candidate_champs):
+    def __init__(self,champion, color_code):
         self.champion = champion
         self.color_code = color_code
 
@@ -36,16 +36,17 @@ class Guess():
             (df['Guessed_Champion'] == self.champion)\
             & (df['Comparison'] == self.color_code)
         ]['Actual_Champion'].to_list()
-        return return_list
+        return set(return_list)
 
-    def next_best_guess(self,candidates_list,df) -> str:
-        entropy_dict = {el:champ_entropy(self.champion,df) for el in candidates_list}
-        sorted_entropy = sorted(
-            entropy_dict.items(),
-            key=lambda item: item[1],
-            reverse=True
-        )
-        return sorted_entropy
+
+def next_best_guess(candidates_list,df) -> str:
+    entropy_dict = {el:champ_entropy(el,df) for el in candidates_list}
+    sorted_entropy = sorted(
+        entropy_dict.items(),
+        key=lambda item: item[1],
+        reverse=True
+    )
+    return sorted_entropy
  
 def champ_entropy(champion,df:pd.DataFrame) -> float:
         champ_probs = (
@@ -115,3 +116,28 @@ def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champ
                 else:
                     result += 'R'
     return result
+
+def sanitised_input(prompt, type_, champs_list=None):
+    while True:
+        ui = input(prompt)
+        if ~isinstance(ui, str):
+            print('The input should be a string!')
+            continue
+        if type_ == 'champion':
+            ui = ui.title()
+            if ui not in champs_list:
+                print('Please provide an existing League of Legends champion!')
+            else:
+                return ui
+        elif type_ == 'color_answer':
+            ui = ui.upper()
+            if len(ui) != 7:
+                print('The answer is not the correct length! Either you missed a letter, or you typed too many!')
+                continue
+            elif ~all(c in "ROG" for c in ui):
+                print('The color code can only contain r, o or g!')
+            else:
+                return ui
+        else:
+            print('This type of question has not been implemented!')
+            return
