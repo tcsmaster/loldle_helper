@@ -117,27 +117,29 @@ def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champ
                     result += 'R'
     return result
 
-def sanitised_input(prompt, type_, champs_list=None):
+def sanitised_input(prompt, question, type_ = str,champs_list=None):
     while True:
         ui = input(prompt)
-        if ~isinstance(ui, str):
-            print('The input should be a string!')
-            continue
-        if type_ == 'champion':
+        try:
+            ui = type_(ui)
+        except ValueError as e:
+            print('Ligma balls!')
+        if question == 'champion':
             ui = ui.title()
             if ui not in champs_list:
                 print('Please provide an existing League of Legends champion!')
             else:
                 return ui
-        elif type_ == 'color_answer':
+        elif question == 'color_answer':
             ui = ui.upper()
+            print(ui)
             if len(ui) != 7:
                 print('The answer is not the correct length! Either you missed a letter, or you typed too many!')
                 continue
-            elif ~all(c in "ROG" for c in ui):
+            if not all(c in "ROG" for c in ui):
                 print('The color code can only contain r, o or g!')
-            else:
-                return ui
+                continue
+            return ui
         else:
             print('This type of question has not been implemented!')
             return

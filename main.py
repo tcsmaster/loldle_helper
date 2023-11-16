@@ -7,12 +7,12 @@ def main():
     while True:
         guess_champ = sanitised_input(
             prompt='Which champion was your guess? ',
-            type_='champion',
+            question='champion',
             champs_list = champions_df['Name'].to_list()
             )
         guess_color_scheme = sanitised_input(
             prompt='What were the colors for the guess? ',
-            type_ = 'color_answer'
+            question = 'color_answer'
         )
         guess = Guess(guess_champ, guess_color_scheme)
         candidate_champs = candidate_champs.intersection(
