@@ -46,7 +46,7 @@ def next_best_guess(candidates_list,df) -> str:
         key=lambda item: item[1],
         reverse=True
     )
-    return sorted_entropy
+    return sorted_entropy[0][0]
  
 def champ_entropy(champion,df:pd.DataFrame) -> float:
         champ_probs = (
