@@ -26,6 +26,16 @@ def main():
                    Please make sure to give the correct answer you got from the website.
                 """
             )
+            guess_color_scheme = sanitised_input(
+            prompt='What were the colors for the guess? ',
+            question = 'color_answer'
+            )
+            guess = Guess(guess_champ, guess_color_scheme)
+            candidate_champs = candidate_champs.intersection(
+                guess.match_candidates_for_champ(
+                    relations_df
+                )
+            )
         next_champ_guess = next_best_guess(
             candidate_champs,
             guess.get_all_possible_matches(
