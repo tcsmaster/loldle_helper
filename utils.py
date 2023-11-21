@@ -147,7 +147,8 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
 def update_championsdf_with_new_champ(
     new_champ:Champion,
     champions_df:pd.DataFrame,
-    path:str
+    folder:str,
+    extension = '.pkl'
     ) -> pd.DataFrame:
     champions_df = pd.concat(
         [
@@ -158,5 +159,38 @@ def update_championsdf_with_new_champ(
     )
     champions_df.sort_values(by = 'Name',inplace=True)
     champions_df.reset_index(drop=True, inplace=True)
-    champions_df.to_csv(path)
-    return 
+    champions_df.to_pickle(path)
+    return
+
+def update_relationsdf_with_new_champ(
+    new_champ:Champion,
+    champions_df,
+    path:str,
+    extension = '.csv'
+    ):
+    a = [Champion(**champions_df.iloc[i, :]) for i in range(champions_df.shape[0])]
+    new_champ = a[champions_df.loc[champions_df['Name'] == new_champ.Name].index[0]]
+    combi = [(new_champ, el) for el in a]
+    combi.extend([(el, new_champ) for el in a])
+    for el in combi:
+            relations_df = pd.concat(
+                [
+                    relations_df,
+                    pd.DataFrame(
+                        [
+                            {
+                                'Guessed_Champion':el[0].Name,
+                                'Actual_Champion':el[1].Name,
+                                'Comparison':get_result_of_comparison(el[0], el[1])
+
+                            }
+                        ]
+                    )
+                ]
+            )
+    relations_df.sort_values(
+        by = ['Guessed_Champion', 'Actual_Champion'],
+        inplace=True
+    )
+    relations_df.reset_index(drop=True, inplace=True)
+    relations_df.to_csv(path)
