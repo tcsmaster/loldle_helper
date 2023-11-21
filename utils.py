@@ -143,3 +143,18 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
         else:
             print('This type of question has not been implemented!')
             return
+
+def update_championsdf_with_new_champ(
+    new_champ:Champion,
+    champions_df:pd.DataFrame
+    ) -> pd.DataFrame:
+    champions_df = pd.concat(
+        [
+            champions_df,
+            pd.DataFrame(
+                [new_champ.__dict__])
+        ]
+    )
+    champions_df.sort_values(by = 'Name',inplace=True)
+    champions_df.reset_index(drop=True, inplace=True)
+    return champions_df
