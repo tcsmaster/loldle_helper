@@ -16,6 +16,7 @@
 14,Aatrox,Blitzcrank,RRRRGRR
 15,Aatrox,Brand,GRRRROR
 16,Aatrox,Braum,GRRRGRR
+27061,Aatrox,Briar,RRRRGRR
 17,Aatrox,Caitlyn,RRRRRRR
 18,Aatrox,Camille,RGRRGRR
 19,Aatrox,Cassiopeia,RRRRROR
@@ -180,6 +181,7 @@
 178,Ahri,Blitzcrank,RRRGRRR
 179,Ahri,Brand,RRRGGRG
 180,Ahri,Braum,RRRGRRR
+27062,Ahri,Briar,GRRRRRR
 181,Ahri,Caitlyn,GRRGGRG
 182,Ahri,Camille,GRRGRRR
 183,Ahri,Cassiopeia,GGRGROR
@@ -344,6 +346,7 @@
 342,Akali,Blitzcrank,RRRRGRR
 343,Akali,Brand,RRORRRR
 344,Akali,Braum,RRORGRR
+27063,Akali,Briar,GRRRGRR
 345,Akali,Caitlyn,GRGRRRR
 346,Akali,Camille,GOORGRR
 347,Akali,Cassiopeia,GOORRRR
@@ -508,6 +511,7 @@
 506,Akshan,Blitzcrank,RRRGRRR
 507,Akshan,Brand,GROGGRR
 508,Akshan,Braum,GROGRRR
+27064,Akshan,Briar,RRRRRRR
 509,Akshan,Caitlyn,RRGGGRR
 510,Akshan,Camille,ROOGRRR
 511,Akshan,Cassiopeia,ROOGROR
@@ -672,6 +676,7 @@
 670,Alistar,Blitzcrank,RGRGGRG
 671,Alistar,Brand,GGRGROR
 672,Alistar,Braum,GGRGGRR
+27065,Alistar,Briar,RRRRGRR
 673,Alistar,Caitlyn,RRRGRRR
 674,Alistar,Camille,RRRGGRR
 675,Alistar,Cassiopeia,RRRGRRR
@@ -836,6 +841,7 @@
 834,Amumu,Blitzcrank,RORGGRG
 835,Amumu,Brand,GORGRRR
 836,Amumu,Braum,GORGGRR
+27066,Amumu,Briar,RORRGRR
 837,Amumu,Caitlyn,RRRGRRR
 838,Amumu,Camille,RRRGGRR
 839,Amumu,Cassiopeia,RRRGROR
@@ -1000,6 +1006,7 @@
 998,Anivia,Blitzcrank,RRRGRRG
 999,Anivia,Brand,RRRGGOR
 1000,Anivia,Braum,RRRGRGR
+27067,Anivia,Briar,GRRRRRR
 1001,Anivia,Caitlyn,GRRGGRR
 1002,Anivia,Camille,GRRGRRR
 1003,Anivia,Cassiopeia,GGRGRRR
@@ -1164,6 +1171,7 @@
 1162,Annie,Blitzcrank,RORGRRG
 1163,Annie,Brand,ROOGGOR
 1164,Annie,Braum,ROOGRRR
+27068,Annie,Briar,GRRRROR
 1165,Annie,Caitlyn,GROGGRR
 1166,Annie,Camille,GROGRRR
 1167,Annie,Cassiopeia,GOOGRRR
@@ -1328,6 +1336,7 @@
 1326,Aphelios,Blitzcrank,RRRGRRR
 1327,Aphelios,Brand,GROGGRR
 1328,Aphelios,Braum,GROGRRR
+27069,Aphelios,Briar,RRRRRRR
 1329,Aphelios,Caitlyn,RGOGGRR
 1330,Aphelios,Camille,RROGRRR
 1331,Aphelios,Cassiopeia,RROGRRR
@@ -1492,6 +1501,7 @@
 1490,Ashe,Blitzcrank,RORGRRG
 1491,Ashe,Brand,ROOGGOR
 1492,Ashe,Braum,ROGGRGR
+27070,Ashe,Briar,GRRRRRR
 1493,Ashe,Caitlyn,GOOGGRR
 1494,Ashe,Camille,GROGRRR
 1495,Ashe,Cassiopeia,GROGRRR
@@ -1656,6 +1666,7 @@
 1654,Aurelion Sol,Blitzcrank,RRRGRRR
 1655,Aurelion Sol,Brand,GRRGGOR
 1656,Aurelion Sol,Braum,GRRGRRR
+27071,Aurelion Sol,Briar,RRRRRRR
 1657,Aurelion Sol,Caitlyn,RRRGGRR
 1658,Aurelion Sol,Camille,RRRGRRG
 1659,Aurelion Sol,Cassiopeia,RGRGRRR
@@ -1820,6 +1831,7 @@
 1818,Azir,Blitzcrank,RRRGRRR
 1819,Azir,Brand,GRRGGRR
 1820,Azir,Braum,GRRGRRG
+27072,Azir,Briar,RRRRRRR
 1821,Azir,Caitlyn,RRRGGRR
 1822,Azir,Camille,RRRGRRR
 1823,Azir,Cassiopeia,RGRGROR
@@ -1984,6 +1996,7 @@
 1982,Bard,Blitzcrank,RGRGRRR
 1983,Bard,Brand,GGRGGOR
 1984,Bard,Braum,GGRGRRR
+27073,Bard,Briar,RRRRRRR
 1985,Bard,Caitlyn,RRRGGRR
 1986,Bard,Camille,RRRGRRR
 1987,Bard,Cassiopeia,RRRGRRR
@@ -2148,6 +2161,7 @@
 2146,Bel'Veth,Blitzcrank,RRRRGRR
 2147,Bel'Veth,Brand,RRRRRRR
 2148,Bel'Veth,Braum,RRRRGRR
+27074,Bel'Veth,Briar,GGRRGRR
 2149,Bel'Veth,Caitlyn,GRRRRRR
 2150,Bel'Veth,Camille,GRRRGRR
 2151,Bel'Veth,Cassiopeia,GRRRRRR
@@ -2312,6 +2326,7 @@
 2310,Blitzcrank,Blitzcrank,GGGGGGG
 2311,Blitzcrank,Brand,RGRGRRR
 2312,Blitzcrank,Braum,RGRGGRR
+27075,Blitzcrank,Briar,RRGRGRR
 2313,Blitzcrank,Caitlyn,RRRGRRR
 2314,Blitzcrank,Camille,RRRGGRR
 2315,Blitzcrank,Cassiopeia,RRRGRRR
@@ -2476,6 +2491,7 @@
 2474,Brand,Blitzcrank,RGRGRRR
 2475,Brand,Brand,GGGGGGG
 2476,Brand,Braum,GGOGROR
+27076,Brand,Briar,RRRRRRR
 2477,Brand,Caitlyn,RROGGRG
 2478,Brand,Camille,RROGRRR
 2479,Brand,Cassiopeia,RRGGRRR
@@ -2640,6 +2656,7 @@
 2638,Braum,Blitzcrank,RGRGGRR
 2639,Braum,Brand,GGOGROR
 2640,Braum,Braum,GGGGGGG
+27077,Braum,Briar,RRRRGRR
 2641,Braum,Caitlyn,RROGRRR
 2642,Braum,Camille,RROGGRR
 2643,Braum,Cassiopeia,RROGRRR
@@ -2787,6 +2804,172 @@
 2785,Braum,Zilean,GGOGRRR
 2786,Braum,Zoe,RROGRRR
 2787,Braum,Zyra,RGRGRRR
+26896,Briar,Aatrox,RRRRGRR
+26897,Briar,Ahri,GRRRRRR
+26898,Briar,Akali,GRRRGRR
+26899,Briar,Akshan,RRRRRRR
+26900,Briar,Alistar,RRRRGRR
+26901,Briar,Amumu,RORRGRR
+26902,Briar,Anivia,GRRRRRR
+26903,Briar,Annie,GRRRROR
+26904,Briar,Aphelios,RRRRRRR
+26905,Briar,Ashe,GRRRRRR
+26906,Briar,Aurelion Sol,RRRRRRR
+26907,Briar,Azir,RRRRRRR
+26908,Briar,Bard,RRRRRRR
+26909,Briar,Bel'Veth,GGRRGRR
+26910,Briar,Blitzcrank,RRGRGRR
+26911,Briar,Brand,RRRRRRR
+26912,Briar,Braum,RRRRGRR
+26913,Briar,Briar,GGGGGGG
+27078,Briar,Briar,GGGGGGG
+26914,Briar,Caitlyn,GRRRRRR
+26915,Briar,Camille,GRRRGRR
+26916,Briar,Cassiopeia,GRRRRRR
+26917,Briar,Cho'Gath,RRRRGRR
+26918,Briar,Corki,RRRRRRR
+26919,Briar,Darius,RRRRGGR
+26920,Briar,Diana,GORRGRR
+26921,Briar,Dr. Mundo,RRRRGRR
+26922,Briar,Draven,RRRRRGR
+26923,Briar,Ekko,RORRGRR
+26924,Briar,Elise,GGRROOR
+26925,Briar,Evelynn,GGRRGRR
+26926,Briar,Ezreal,RRRRRRR
+26927,Briar,Fiddlesticks,RGRRRRR
+26928,Briar,Fiora,GRRRGRR
+26929,Briar,Fizz,RRRRGRR
+26930,Briar,Galio,RRGRGRR
+26931,Briar,Gangplank,RRRRGRR
+26932,Briar,Garen,RRRRGRR
+26933,Briar,Gnar,RRRRORR
+26934,Briar,Gragas,RORRGRR
+26935,Briar,Graves,RGRRRRR
+26936,Briar,Gwen,GRRRGRR
+26937,Briar,Hecarim,RGRRGRR
+26938,Briar,Heimerdinger,RRRRRRR
+26939,Briar,Illaoi,GRRRGRR
+26940,Briar,Irelia,GRRRGRR
+26941,Briar,Ivern,RGRRRRR
+26942,Briar,Janna,GRRRRRR
+26943,Briar,Jarvan IV,RGRRGRR
+26944,Briar,Jax,RORRGRR
+26945,Briar,Jayce,RRRRORR
+26946,Briar,Jhin,RRRRRRR
+26947,Briar,Jinx,GRRRRRR
+26948,Briar,K'Sante,RRRRGRR
+26949,Briar,Kai'Sa,GRRRRRR
+26950,Briar,Kalista,GRRRRRR
+26951,Briar,Karma,GRRRRRR
+26952,Briar,Karthus,RGRRROR
+26953,Briar,Kassadin,RRRRGRR
+26954,Briar,Katarina,GRRRGGR
+26955,Briar,Kayle,GRRRORR
+26956,Briar,Kayn,RGRRGOR
+26957,Briar,Kennen,RRRRRRR
+26958,Briar,Kha'Zix,RGRRGRR
+26959,Briar,Kindred,RGRRRRR
+26960,Briar,Kled,RRRRGGR
+26961,Briar,Kog'Maw,RRRRRRR
+26962,Briar,LeBlanc,GRRRRGR
+26963,Briar,Lee Sin,RGRRGRR
+26964,Briar,Leona,GRRRGRR
+26965,Briar,Lillia,GGRRGRR
+26966,Briar,Lissandra,GRRRRRR
+26967,Briar,Lucian,RRRRRRR
+26968,Briar,Lulu,GRRRRRR
+26969,Briar,Lux,GRRRRRR
+26970,Briar,Malphite,RRGRGRR
+26971,Briar,Malzahar,RRRRRRR
+26972,Briar,Maokai,RORRGRR
+26973,Briar,Master Yi,RGRRGRR
+26974,Briar,Millio,RRRRRRG
+26975,Briar,Miss Fortune,GRRRRRR
+26976,Briar,Mordekaiser,RRRRGGR
+26977,Briar,Morgana,GRRRRRR
+26978,Briar,Naafiri,GRRRGRG
+26979,Briar,Nami,GRRRRRR
+26980,Briar,Nasus,RRRRGRR
+26981,Briar,Nautilus,RRRRGRR
+26982,Briar,Neeko,GRRRRRR
+26983,Briar,Nidalee,GGRRRRR
+26984,Briar,Nilah,GRRRGRR
+26985,Briar,Nocturne,RGRRGRR
+26986,Briar,Nunu & Willump,RGRRGRR
+26987,Briar,Olaf,RORRGRR
+26988,Briar,Orianna,GRGRRRR
+26989,Briar,Ornn,RRRRGRR
+26990,Briar,Pantheon,RRRRGRR
+26991,Briar,Poppy,GORRGRR
+26992,Briar,Pyke,RRRRGRR
+26993,Briar,Qiyana,GRRRGRR
+26994,Briar,Quinn,GRRRRRR
+26995,Briar,Rakan,RRRRGRR
+26996,Briar,Rammus,RGRRGRR
+26997,Briar,Rek'Sai,GGRRGRR
+26998,Briar,Rell,GRRRGGR
+26999,Briar,Renata Glasc,GRRRRRR
+27000,Briar,Renekton,RRRRGRR
+27001,Briar,Rengar,RORRGRR
+27002,Briar,Riven,GRRRGOR
+27003,Briar,Rumble,RRRRGRR
+27004,Briar,Ryze,RRRRRRR
+27005,Briar,Samira,GRRRROR
+27006,Briar,Searphine,GRRRRRR
+27007,Briar,Sejuani,GGRRGRR
+27008,Briar,Senna,GRRRRRR
+27009,Briar,Sett,RRRRGRR
+27010,Briar,Shaco,RGRRGRR
+27011,Briar,Shen,RRRRGRR
+27012,Briar,Shyvana,GGRRGRR
+27013,Briar,Singed,RRRRGRR
+27014,Briar,Sion,RRRRGGR
+27015,Briar,Sivir,GRRRRRR
+27016,Briar,Skarner,RGRRGRR
+27017,Briar,Sona,GRRRRRR
+27018,Briar,Soraka,GRRRRRR
+27019,Briar,Swain,RRRRRGR
+27020,Briar,Sylas,RRRRGRR
+27021,Briar,Syndra,GRRRRRR
+27022,Briar,Tahm Kench,RRRRGRR
+27023,Briar,Taliyah,GORRRRR
+27024,Briar,Talon,RORRGGR
+27025,Briar,Taric,RRRRGRR
+27026,Briar,Teemo,RRRRRRR
+27027,Briar,Thresh,RRRRRRR
+27028,Briar,Tristana,GRRRRRR
+27029,Briar,Trundle,RORRGRR
+27030,Briar,Tryndamere,RRRRGRR
+27031,Briar,Twisted Fate,RRRRRRR
+27032,Briar,Twitch,RRRRRRR
+27033,Briar,Udyr,RORRGRR
+27034,Briar,Urgot,RRRRROR
+27035,Briar,Varus,RRRRRRR
+27036,Briar,Vayne,GRRRRRR
+27037,Briar,Veigar,RRRRRRR
+27038,Briar,Vel'Koz,RRRRRRR
+27039,Briar,Vex,GRRRRRR
+27040,Briar,Vi,GGRRGRR
+27041,Briar,Viego,RGRRGRR
+27042,Briar,Viktor,RRRRRRR
+27043,Briar,Vladimir,RRRRROR
+27044,Briar,Volibear,RORRGRR
+27045,Briar,Warwick,RORRGRR
+27046,Briar,Wukong,RORRGRR
+27047,Briar,Xayah,GRRRRRR
+27048,Briar,Xerath,RRRRRRR
+27049,Briar,Xin Zhao,RGRRGOR
+27050,Briar,Yasuo,RRRRGRR
+27051,Briar,Yone,RRRRGRR
+27052,Briar,Yorick,RRRRGRR
+27053,Briar,Yuumi,GRRRRRR
+27054,Briar,Zac,RGGRGRR
+27055,Briar,Zed,RRRRGRR
+27056,Briar,Zeri,GRRRRRR
+27057,Briar,Ziggs,RRRRRRR
+27058,Briar,Zilean,RRRRRRR
+27059,Briar,Zoe,GRRRRRR
+27060,Briar,Zyra,GRRRRRR
 2788,Caitlyn,Aatrox,RRRRRRR
 2789,Caitlyn,Ahri,GRRGGRG
 2790,Caitlyn,Akali,GRGRRRR
@@ -2804,6 +2987,7 @@
 2802,Caitlyn,Blitzcrank,RRRGRRR
 2803,Caitlyn,Brand,RROGGRG
 2804,Caitlyn,Braum,RROGRRR
+27079,Caitlyn,Briar,GRRRRRR
 2805,Caitlyn,Caitlyn,GGGGGGG
 2806,Caitlyn,Camille,GROGRGR
 2807,Caitlyn,Cassiopeia,GROGRRR
@@ -2968,6 +3152,7 @@
 2966,Camille,Blitzcrank,RRRGGRR
 2967,Camille,Brand,RROGRRR
 2968,Camille,Braum,RROGGRR
+27080,Camille,Briar,GRRRGRR
 2969,Camille,Caitlyn,GROGRGR
 2970,Camille,Camille,GGGGGGG
 2971,Camille,Cassiopeia,GROGRRR
@@ -3132,6 +3317,7 @@
 3130,Cassiopeia,Blitzcrank,RRRGRRR
 3131,Cassiopeia,Brand,RRGGRRR
 3132,Cassiopeia,Braum,RROGRRR
+27081,Cassiopeia,Briar,GRRRRRR
 3133,Cassiopeia,Caitlyn,GROGRRR
 3134,Cassiopeia,Camille,GROGRRR
 3135,Cassiopeia,Cassiopeia,GGGGGGG
@@ -3296,6 +3482,7 @@
 3294,Cho'Gath,Blitzcrank,RRRGGRG
 3295,Cho'Gath,Brand,GRRGRRR
 3296,Cho'Gath,Braum,GRRGGRR
+27082,Cho'Gath,Briar,RRRRGRR
 3297,Cho'Gath,Caitlyn,RRRGRRR
 3298,Cho'Gath,Camille,RGRGGRR
 3299,Cho'Gath,Cassiopeia,RRRGRRR
@@ -3460,6 +3647,7 @@
 3458,Corki,Blitzcrank,RRRGRRG
 3459,Corki,Brand,GRRGGRR
 3460,Corki,Braum,GRRGRRR
+27083,Corki,Briar,RRRRRRR
 3461,Corki,Caitlyn,RRRGGOR
 3462,Corki,Camille,RRRGROR
 3463,Corki,Cassiopeia,RGRGRRR
@@ -3624,6 +3812,7 @@
 3622,Darius,Blitzcrank,RRRGGRR
 3623,Darius,Brand,GROGRRR
 3624,Darius,Braum,GROGGRR
+27084,Darius,Briar,RRRRGGR
 3625,Darius,Caitlyn,RRGGRRR
 3626,Darius,Camille,RGOGGRR
 3627,Darius,Cassiopeia,RROGRRR
@@ -3788,6 +3977,7 @@
 3786,Diana,Blitzcrank,RRRGGRR
 3787,Diana,Brand,RROGRRR
 3788,Diana,Braum,RROGGRR
+27085,Diana,Briar,GORRGRR
 3789,Diana,Caitlyn,GROGRRR
 3790,Diana,Camille,GROGGRR
 3791,Diana,Cassiopeia,GOOGRRR
@@ -3952,6 +4142,7 @@
 3950,Dr. Mundo,Blitzcrank,RRRRGGG
 3951,Dr. Mundo,Brand,GRORRRR
 3952,Dr. Mundo,Braum,GRORGRR
+27086,Dr. Mundo,Briar,RRRRGRR
 3953,Dr. Mundo,Caitlyn,RRORRRR
 3954,Dr. Mundo,Camille,RGORGRR
 3955,Dr. Mundo,Cassiopeia,RRORRRR
@@ -4116,6 +4307,7 @@
 4114,Draven,Blitzcrank,RRRGRRR
 4115,Draven,Brand,GROGGRR
 4116,Draven,Braum,GROGRRR
+27087,Draven,Briar,RRRRRGR
 4117,Draven,Caitlyn,RGGGGRR
 4118,Draven,Camille,RROGRRR
 4119,Draven,Cassiopeia,RROGRRR
@@ -4280,6 +4472,7 @@
 4278,Ekko,Blitzcrank,RRRGGGR
 4279,Ekko,Brand,GROGRRR
 4280,Ekko,Braum,GROGGRR
+27088,Ekko,Briar,RORRGRR
 4281,Ekko,Caitlyn,RRGGRRR
 4282,Ekko,Camille,RROGGRR
 4283,Ekko,Cassiopeia,ROOGRRR
@@ -4444,6 +4637,7 @@
 4442,Elise,Blitzcrank,RRRGORR
 4443,Elise,Brand,RRGGORR
 4444,Elise,Braum,RROGORR
+27089,Elise,Briar,GGRROOR
 4445,Elise,Caitlyn,GROGORR
 4446,Elise,Camille,GROGORR
 4447,Elise,Cassiopeia,GRGGRRR
@@ -4608,6 +4802,7 @@
 4606,Evelynn,Blitzcrank,RRRGGRG
 4607,Evelynn,Brand,RRRGROR
 4608,Evelynn,Braum,RRRGGRR
+27090,Evelynn,Briar,GGRRGRR
 4609,Evelynn,Caitlyn,GRRGRRR
 4610,Evelynn,Camille,GRRGGRR
 4611,Evelynn,Cassiopeia,GRRGRRR
@@ -4772,6 +4967,7 @@
 4770,Ezreal,Blitzcrank,RRRGRRR
 4771,Ezreal,Brand,GROGGRR
 4772,Ezreal,Braum,GROGRRR
+27091,Ezreal,Briar,RRRRRRR
 4773,Ezreal,Caitlyn,RGOGGGR
 4774,Ezreal,Camille,RROGRGR
 4775,Ezreal,Cassiopeia,RROGRRG
@@ -4936,6 +5132,7 @@
 4934,Fiddlesticks,Blitzcrank,GRRGRRG
 4935,Fiddlesticks,Brand,RRRGGOR
 4936,Fiddlesticks,Braum,RRRGRRR
+27092,Fiddlesticks,Briar,RGRRRRR
 4937,Fiddlesticks,Caitlyn,RRRGGRR
 4938,Fiddlesticks,Camille,RRRGRRR
 4939,Fiddlesticks,Cassiopeia,RRRGRRR
@@ -5100,6 +5297,7 @@
 5098,Fiora,Blitzcrank,RRRGGRR
 5099,Fiora,Brand,RROGRRR
 5100,Fiora,Braum,RROGGRR
+27093,Fiora,Briar,GRRRGRR
 5101,Fiora,Caitlyn,GRGGRRR
 5102,Fiora,Camille,GGOGGRR
 5103,Fiora,Cassiopeia,GROGRRR
@@ -5264,6 +5462,7 @@
 5262,Fizz,Blitzcrank,RRRGGRR
 5263,Fizz,Brand,GRRGRRG
 5264,Fizz,Braum,GRRGGRR
+27094,Fizz,Briar,RRRRGRR
 5265,Fizz,Caitlyn,RRRGRRG
 5266,Fizz,Camille,RRRGGRR
 5267,Fizz,Cassiopeia,RGRGRRR
@@ -5428,6 +5627,7 @@
 5426,Galio,Blitzcrank,ROGGGRR
 5427,Galio,Brand,GORGRRR
 5428,Galio,Braum,GORGGRR
+27095,Galio,Briar,RRGRGRR
 5429,Galio,Caitlyn,RRRGRRR
 5430,Galio,Camille,RRRGGRR
 5431,Galio,Cassiopeia,RORGRRG
@@ -5592,6 +5792,7 @@
 5590,Gangplank,Blitzcrank,RRRGGRG
 5591,Gangplank,Brand,GROGRRR
 5592,Gangplank,Braum,GROGGRR
+27096,Gangplank,Briar,RRRRGRR
 5593,Gangplank,Caitlyn,RRGGRRR
 5594,Gangplank,Camille,RGOGGRR
 5595,Gangplank,Cassiopeia,RROGRRR
@@ -5756,6 +5957,7 @@
 5754,Garen,Blitzcrank,RRRRGRR
 5755,Garen,Brand,GRORRRR
 5756,Garen,Braum,GRORGRR
+27097,Garen,Briar,RRRRGRR
 5757,Garen,Caitlyn,RRGRRRR
 5758,Garen,Camille,RGORGRR
 5759,Garen,Cassiopeia,RRORRRG
@@ -5920,6 +6122,7 @@
 5918,Gnar,Blitzcrank,RRRRORR
 5919,Gnar,Brand,GRRROOR
 5920,Gnar,Braum,GRRROGG
+27098,Gnar,Briar,RRRRORR
 5921,Gnar,Caitlyn,RRRRORR
 5922,Gnar,Camille,RGRRORR
 5923,Gnar,Cassiopeia,RRRRRRR
@@ -6084,6 +6287,7 @@
 6082,Gragas,Blitzcrank,RRRGGRR
 6083,Gragas,Brand,GROGROR
 6084,Gragas,Braum,GROGGGR
+27099,Gragas,Briar,RORRGRR
 6085,Gragas,Caitlyn,RRGGRRR
 6086,Gragas,Camille,ROOGGRR
 6087,Gragas,Cassiopeia,RROGRRG
@@ -6248,6 +6452,7 @@
 6246,Graves,Blitzcrank,RRRGRRR
 6247,Graves,Brand,GROGGRG
 6248,Graves,Braum,GROGRRR
+27100,Graves,Briar,RGRRRRR
 6249,Graves,Caitlyn,RRGGGRG
 6250,Graves,Camille,RROGRRR
 6251,Graves,Cassiopeia,RROGRRR
@@ -6412,6 +6617,7 @@
 6410,Gwen,Blitzcrank,RRRGGRR
 6411,Gwen,Brand,RRGGRRR
 6412,Gwen,Braum,RROGGRR
+27101,Gwen,Briar,GRRRGRR
 6413,Gwen,Caitlyn,GROGRRR
 6414,Gwen,Camille,GGOGGRR
 6415,Gwen,Cassiopeia,GRGGRRR
@@ -6576,6 +6782,7 @@
 6574,Hecarim,Blitzcrank,RRRGGRR
 6575,Hecarim,Brand,GRRGRRR
 6576,Hecarim,Braum,GRRGGRR
+27102,Hecarim,Briar,RGRRGRR
 6577,Hecarim,Caitlyn,RRRGRRR
 6578,Hecarim,Camille,RRRGGRR
 6579,Hecarim,Cassiopeia,RRRGRRR
@@ -6740,6 +6947,7 @@
 6738,Heimerdinger,Blitzcrank,RORGRRG
 6739,Heimerdinger,Brand,GORGGRR
 6740,Heimerdinger,Braum,GORGRRR
+27103,Heimerdinger,Briar,RRRRRRR
 6741,Heimerdinger,Caitlyn,RRRGGGR
 6742,Heimerdinger,Camille,RRRGRGR
 6743,Heimerdinger,Cassiopeia,RORGRRR
@@ -6904,6 +7112,7 @@
 6902,Illaoi,Blitzcrank,RRRGGRR
 6903,Illaoi,Brand,RROGRRR
 6904,Illaoi,Braum,RROGGRR
+27104,Illaoi,Briar,GRRRGRR
 6905,Illaoi,Caitlyn,GROGRRR
 6906,Illaoi,Camille,GGOGGRR
 6907,Illaoi,Cassiopeia,GROGRRR
@@ -7068,6 +7277,7 @@
 7066,Irelia,Blitzcrank,RRRGGRR
 7067,Irelia,Brand,RROGRRR
 7068,Irelia,Braum,RROGGRR
+27105,Irelia,Briar,GRRRGRR
 7069,Irelia,Caitlyn,GROGRRR
 7070,Irelia,Camille,GOOGGRR
 7071,Irelia,Cassiopeia,GOOGRRG
@@ -7232,6 +7442,7 @@
 7230,Ivern,Blitzcrank,RRRGRRR
 7231,Ivern,Brand,GRGGGOR
 7232,Ivern,Braum,GROGROR
+27106,Ivern,Briar,RGRRRRR
 7233,Ivern,Caitlyn,RROGGRR
 7234,Ivern,Camille,RROGRRG
 7235,Ivern,Cassiopeia,RRGGRRR
@@ -7396,6 +7607,7 @@
 7394,Janna,Blitzcrank,RGRGROG
 7395,Janna,Brand,RGRGGRR
 7396,Janna,Braum,RGRGRRR
+27107,Janna,Briar,GRRRRRR
 7397,Janna,Caitlyn,GRRGGRR
 7398,Janna,Camille,GRRGRRR
 7399,Janna,Cassiopeia,GRRGROR
@@ -7560,6 +7772,7 @@
 7558,Jarvan IV,Blitzcrank,RRRGGRR
 7559,Jarvan IV,Brand,GROGRRG
 7560,Jarvan IV,Braum,GROGGRR
+27108,Jarvan IV,Briar,RGRRGRR
 7561,Jarvan IV,Caitlyn,RRGGRRG
 7562,Jarvan IV,Camille,RROGGRR
 7563,Jarvan IV,Cassiopeia,RROGRRR
@@ -7724,6 +7937,7 @@
 7722,Jax,Blitzcrank,RRRGGRG
 7723,Jax,Brand,GRRGROR
 7724,Jax,Braum,GRRGGRR
+27109,Jax,Briar,RORRGRR
 7725,Jax,Caitlyn,RRRGRRR
 7726,Jax,Camille,RORGGRR
 7727,Jax,Cassiopeia,RRRGROR
@@ -7888,6 +8102,7 @@
 7886,Jayce,Blitzcrank,RRRGORR
 7887,Jayce,Brand,GROGORR
 7888,Jayce,Braum,GROGORR
+27110,Jayce,Briar,RRRRORR
 7889,Jayce,Caitlyn,RRGGOGR
 7890,Jayce,Camille,ROOGOGR
 7891,Jayce,Cassiopeia,ROOGRRR
@@ -8052,6 +8267,7 @@
 8050,Jhin,Blitzcrank,RRRGRRR
 8051,Jhin,Brand,GROGGRR
 8052,Jhin,Braum,GROGRRR
+27111,Jhin,Briar,RRRRRRR
 8053,Jhin,Caitlyn,RGOGGRR
 8054,Jhin,Camille,RROGRRG
 8055,Jhin,Cassiopeia,RROGRRR
@@ -8216,6 +8432,7 @@
 8214,Jinx,Blitzcrank,RRRGRGR
 8215,Jinx,Brand,RROGGRR
 8216,Jinx,Braum,RROGRRR
+27112,Jinx,Briar,GRRRRRR
 8217,Jinx,Caitlyn,GGOGGRR
 8218,Jinx,Camille,GROGRRR
 8219,Jinx,Cassiopeia,GROGRRR
@@ -8380,6 +8597,7 @@
 8378,K'Sante,Blitzcrank,RRRGGRR
 8379,K'Sante,Brand,GROGRRR
 8380,K'Sante,Braum,GROGGRR
+27113,K'Sante,Briar,RRRRGRR
 8381,K'Sante,Caitlyn,RRGGRRR
 8382,K'Sante,Camille,RGOGGRR
 8383,K'Sante,Cassiopeia,RROGROR
@@ -8544,6 +8762,7 @@
 8542,Kai'Sa,Blitzcrank,RRRGRRR
 8543,Kai'Sa,Brand,RROGGRR
 8544,Kai'Sa,Braum,RROGRRR
+27114,Kai'Sa,Briar,GRRRRRR
 8545,Kai'Sa,Caitlyn,GGOGGRR
 8546,Kai'Sa,Camille,GROGRRR
 8547,Kai'Sa,Cassiopeia,GROGROR
@@ -8708,6 +8927,7 @@
 8706,Kalista,Blitzcrank,RRRGRRR
 8707,Kalista,Brand,RRRGGRR
 8708,Kalista,Braum,RRRGRRG
+27115,Kalista,Briar,GRRRRRR
 8709,Kalista,Caitlyn,GGRGGRR
 8710,Kalista,Camille,GRRGRRR
 8711,Kalista,Cassiopeia,GRRGRRR
@@ -8872,6 +9092,7 @@
 8870,Karma,Blitzcrank,RGRGRRR
 8871,Karma,Brand,RGOGGRG
 8872,Karma,Braum,RGOGRRR
+27116,Karma,Briar,GRRRRRR
 8873,Karma,Caitlyn,GROGGRG
 8874,Karma,Camille,GROGRRR
 8875,Karma,Cassiopeia,GROGRRR
@@ -9036,6 +9257,7 @@
 9034,Karthus,Blitzcrank,RRRGRRG
 9035,Karthus,Brand,GRRGGRR
 9036,Karthus,Braum,GRRGRRR
+27117,Karthus,Briar,RGRRROR
 9037,Karthus,Caitlyn,RRRGGRR
 9038,Karthus,Camille,RRRGRRR
 9039,Karthus,Cassiopeia,RRRGRRR
@@ -9200,6 +9422,7 @@
 9198,Kassadin,Blitzcrank,RRRGGRG
 9199,Kassadin,Brand,GROGRRR
 9200,Kassadin,Braum,GROGGRR
+27118,Kassadin,Briar,RRRRGRR
 9201,Kassadin,Caitlyn,RROGRRR
 9202,Kassadin,Camille,RROGGRR
 9203,Kassadin,Cassiopeia,RGOGROR
@@ -9364,6 +9587,7 @@
 9362,Katarina,Blitzcrank,RRRRGRG
 9363,Katarina,Brand,RRORRRR
 9364,Katarina,Braum,RRORGRR
+27119,Katarina,Briar,GRRRGGR
 9365,Katarina,Caitlyn,GRGRRRR
 9366,Katarina,Camille,GRORGRR
 9367,Katarina,Cassiopeia,GGORRRR
@@ -9528,6 +9752,7 @@
 9526,Kayle,Blitzcrank,RRRGORG
 9527,Kayle,Brand,RROGORR
 9528,Kayle,Braum,RROGORR
+27120,Kayle,Briar,GRRRORR
 9529,Kayle,Caitlyn,GROGORR
 9530,Kayle,Camille,GGOGORR
 9531,Kayle,Cassiopeia,GROGRRR
@@ -9692,6 +9917,7 @@
 9690,Kayn,Blitzcrank,RRRGGRR
 9691,Kayn,Brand,GROGROR
 9692,Kayn,Braum,GROGGRR
+27121,Kayn,Briar,RGRRGOR
 9693,Kayn,Caitlyn,RROGRRR
 9694,Kayn,Camille,RROGGRR
 9695,Kayn,Cassiopeia,RROGROR
@@ -9856,6 +10082,7 @@
 9854,Kennen,Blitzcrank,RRRRRRR
 9855,Kennen,Brand,GRRRGRR
 9856,Kennen,Braum,GRRRRRR
+27122,Kennen,Briar,RRRRRRR
 9857,Kennen,Caitlyn,RRRRGRR
 9858,Kennen,Camille,RGRRRRR
 9859,Kennen,Cassiopeia,RRRRRRG
@@ -10020,6 +10247,7 @@
 10018,Kha'Zix,Blitzcrank,RRRGGRR
 10019,Kha'Zix,Brand,GRRGRRR
 10020,Kha'Zix,Braum,GRRGGRR
+27123,Kha'Zix,Briar,RGRRGRR
 10021,Kha'Zix,Caitlyn,RRRGRRR
 10022,Kha'Zix,Camille,RRRGGRR
 10023,Kha'Zix,Cassiopeia,RRRGRRR
@@ -10184,6 +10412,7 @@
 10182,Kindred,Blitzcrank,GRRGRRR
 10183,Kindred,Brand,RRRGGOR
 10184,Kindred,Braum,RRRGRRR
+27124,Kindred,Briar,RGRRRRR
 10185,Kindred,Caitlyn,RRRGGRR
 10186,Kindred,Camille,RRRGRRR
 10187,Kindred,Cassiopeia,RRRGRRR
@@ -10348,6 +10577,7 @@
 10346,Kled,Blitzcrank,RRRRGRR
 10347,Kled,Brand,GRRRRRR
 10348,Kled,Braum,GRRRGRR
+27125,Kled,Briar,RRRRGGR
 10349,Kled,Caitlyn,RRRRRRR
 10350,Kled,Camille,RGRRGRG
 10351,Kled,Cassiopeia,RRRRRRR
@@ -10512,6 +10742,7 @@
 10510,Kog'Maw,Blitzcrank,RRRGRRR
 10511,Kog'Maw,Brand,GRRGGRR
 10512,Kog'Maw,Braum,GRRGRRR
+27126,Kog'Maw,Briar,RRRRRRR
 10513,Kog'Maw,Caitlyn,RGRGGRR
 10514,Kog'Maw,Camille,RRRGRRR
 10515,Kog'Maw,Cassiopeia,RRRGRRG
@@ -10676,6 +10907,7 @@
 10674,LeBlanc,Blitzcrank,RRRGRRR
 10675,LeBlanc,Brand,RRGGGRR
 10676,LeBlanc,Braum,RROGRRR
+27127,LeBlanc,Briar,GRRRRGR
 10677,LeBlanc,Caitlyn,GROGGRR
 10678,LeBlanc,Camille,GROGRRR
 10679,LeBlanc,Cassiopeia,GGGGRRG
@@ -10840,6 +11072,7 @@
 10838,Lee Sin,Blitzcrank,RRRRGRR
 10839,Lee Sin,Brand,GRORRRG
 10840,Lee Sin,Braum,GRORGRR
+27128,Lee Sin,Briar,RGRRGRR
 10841,Lee Sin,Caitlyn,RRORRRG
 10842,Lee Sin,Camille,RRORGRR
 10843,Lee Sin,Cassiopeia,RRORRRR
@@ -11004,6 +11237,7 @@
 11002,Leona,Blitzcrank,RGRGGRR
 11003,Leona,Brand,RGOGRRG
 11004,Leona,Braum,RGOGGRR
+27129,Leona,Briar,GRRRGRR
 11005,Leona,Caitlyn,GROGRRG
 11006,Leona,Camille,GROGGRR
 11007,Leona,Cassiopeia,GROGRRR
@@ -11168,6 +11402,7 @@
 11166,Lillia,Blitzcrank,RRRGGRR
 11167,Lillia,Brand,RRRGRRR
 11168,Lillia,Braum,RRRGGRR
+27130,Lillia,Briar,GGRRGRR
 11169,Lillia,Caitlyn,GRRGRRR
 11170,Lillia,Camille,GRRGGRR
 11171,Lillia,Cassiopeia,GRRGRRR
@@ -11332,6 +11567,7 @@
 11330,Lissandra,Blitzcrank,RRRGRRR
 11331,Lissandra,Brand,RROGGOR
 11332,Lissandra,Braum,RRGGRGR
+27131,Lissandra,Briar,GRRRRRR
 11333,Lissandra,Caitlyn,GROGGRR
 11334,Lissandra,Camille,GROGRRR
 11335,Lissandra,Cassiopeia,GGOGRRR
@@ -11496,6 +11732,7 @@
 11494,Lucian,Blitzcrank,RRRGRRR
 11495,Lucian,Brand,GROGGRR
 11496,Lucian,Braum,GROGRRR
+27132,Lucian,Briar,RRRRRRR
 11497,Lucian,Caitlyn,RGGGGRR
 11498,Lucian,Camille,RROGRRR
 11499,Lucian,Cassiopeia,RROGRRR
@@ -11660,6 +11897,7 @@
 11658,Lulu,Blitzcrank,RGRGRRR
 11659,Lulu,Brand,RGRGGRR
 11660,Lulu,Braum,RGRGRRR
+27133,Lulu,Briar,GRRRRRR
 11661,Lulu,Caitlyn,GRRGGRR
 11662,Lulu,Camille,GRRGRRR
 11663,Lulu,Cassiopeia,GRRGRRR
@@ -11824,6 +12062,7 @@
 11822,Lux,Blitzcrank,RORGRRR
 11823,Lux,Brand,ROOGGRR
 11824,Lux,Braum,ROOGRRR
+27134,Lux,Briar,GRRRRRR
 11825,Lux,Caitlyn,GROGGRR
 11826,Lux,Camille,GROGRRR
 11827,Lux,Cassiopeia,GOOGRRG
@@ -11988,6 +12227,7 @@
 11986,Malphite,Blitzcrank,RRGGGRG
 11987,Malphite,Brand,GRRGRRR
 11988,Malphite,Braum,GRRGGRR
+27135,Malphite,Briar,RRGRGRR
 11989,Malphite,Caitlyn,RRRGRRR
 11990,Malphite,Camille,RGRGGRR
 11991,Malphite,Cassiopeia,RRRGROR
@@ -12152,6 +12392,7 @@
 12150,Malzahar,Blitzcrank,RRRGRRR
 12151,Malzahar,Brand,GROGGRR
 12152,Malzahar,Braum,GROGRRR
+27136,Malzahar,Briar,RRRRRRR
 12153,Malzahar,Caitlyn,RROGGRR
 12154,Malzahar,Camille,RROGRRR
 12155,Malzahar,Cassiopeia,RGOGROG
@@ -12316,6 +12557,7 @@
 12314,Maokai,Blitzcrank,RORGGRR
 12315,Maokai,Brand,GORGRRG
 12316,Maokai,Braum,GORGGRR
+27137,Maokai,Briar,RORRGRR
 12317,Maokai,Caitlyn,RRRGRRG
 12318,Maokai,Camille,RRRGGRR
 12319,Maokai,Cassiopeia,RRRGRRR
@@ -12480,6 +12722,7 @@
 12478,Master Yi,Blitzcrank,RRRGGRG
 12479,Master Yi,Brand,GROGRRR
 12480,Master Yi,Braum,GROGGRR
+27138,Master Yi,Briar,RGRRGRR
 12481,Master Yi,Caitlyn,RROGRRR
 12482,Master Yi,Camille,RROGGRR
 12483,Master Yi,Cassiopeia,RROGRRR
@@ -12644,6 +12887,7 @@
 12642,Millio,Blitzcrank,RGRGRRR
 12643,Millio,Brand,GGOGGRR
 12644,Millio,Braum,GGOGRRR
+27139,Millio,Briar,RRRRRRG
 12645,Millio,Caitlyn,RROGGRR
 12646,Millio,Camille,RROGRRR
 12647,Millio,Cassiopeia,RROGRRR
@@ -12808,6 +13052,7 @@
 12806,Miss Fortune,Blitzcrank,RRRGRRR
 12807,Miss Fortune,Brand,RROGGRR
 12808,Miss Fortune,Braum,RROGRRR
+27140,Miss Fortune,Briar,GRRRRRR
 12809,Miss Fortune,Caitlyn,GGGGGRR
 12810,Miss Fortune,Camille,GROGRRR
 12811,Miss Fortune,Cassiopeia,GROGRRG
@@ -12972,6 +13217,7 @@
 12970,Mordekaiser,Blitzcrank,RRRRGRR
 12971,Mordekaiser,Brand,GRRRRRR
 12972,Mordekaiser,Braum,GRRRGRR
+27141,Mordekaiser,Briar,RRRRGGR
 12973,Mordekaiser,Caitlyn,RRRRRRR
 12974,Mordekaiser,Camille,RGRRGRR
 12975,Mordekaiser,Cassiopeia,RRRRRRG
@@ -13136,6 +13382,7 @@
 13134,Morgana,Blitzcrank,RGRGRRG
 13135,Morgana,Brand,RGOGGRR
 13136,Morgana,Braum,RGOGRRR
+27142,Morgana,Briar,GRRRRRR
 13137,Morgana,Caitlyn,GROGGRR
 13138,Morgana,Camille,GROGRRR
 13139,Morgana,Cassiopeia,GROGRRR
@@ -13300,6 +13547,7 @@
 13298,Naafiri,Blitzcrank,RRRGGRR
 13299,Naafiri,Brand,RRRGRRR
 13300,Naafiri,Braum,RRRGGRR
+27143,Naafiri,Briar,GRRRGRG
 13301,Naafiri,Caitlyn,GRRGRRR
 13302,Naafiri,Camille,GRRGGRR
 13303,Naafiri,Cassiopeia,GGRGROR
@@ -13464,6 +13712,7 @@
 13462,Nami,Blitzcrank,RGRGRRR
 13463,Nami,Brand,RGRGGRR
 13464,Nami,Braum,RGRGRRR
+27144,Nami,Briar,GRRRRRR
 13465,Nami,Caitlyn,GRRGGRR
 13466,Nami,Camille,GRRGRRR
 13467,Nami,Cassiopeia,GRRGROG
@@ -13628,6 +13877,7 @@
 13626,Nasus,Blitzcrank,RRRGGRG
 13627,Nasus,Brand,GRRGRRR
 13628,Nasus,Braum,GRRGGRR
+27145,Nasus,Briar,RRRRGRR
 13629,Nasus,Caitlyn,RRRGRRR
 13630,Nasus,Camille,RGRGGRR
 13631,Nasus,Cassiopeia,RRRGROR
@@ -13792,6 +14042,7 @@
 13790,Nautilus,Blitzcrank,RGRGGRR
 13791,Nautilus,Brand,GGRGRRR
 13792,Nautilus,Braum,GGRGGRR
+27146,Nautilus,Briar,RRRRGRR
 13793,Nautilus,Caitlyn,RRRGRRR
 13794,Nautilus,Camille,RRRGGRR
 13795,Nautilus,Cassiopeia,RRRGRRR
@@ -13956,6 +14207,7 @@
 13954,Neeko,Blitzcrank,RORGRRR
 13955,Neeko,Brand,RORGGRR
 13956,Neeko,Braum,RORGRRR
+27147,Neeko,Briar,GRRRRRR
 13957,Neeko,Caitlyn,GRRGGRR
 13958,Neeko,Camille,GRRGRRR
 13959,Neeko,Cassiopeia,GORGRRR
@@ -14120,6 +14372,7 @@
 14118,Nidalee,Blitzcrank,RRRGRRG
 14119,Nidalee,Brand,RROGGRR
 14120,Nidalee,Braum,RROGRRR
+27148,Nidalee,Briar,GGRRRRR
 14121,Nidalee,Caitlyn,GROGGRR
 14122,Nidalee,Camille,GROGRRR
 14123,Nidalee,Cassiopeia,GROGRRR
@@ -14284,6 +14537,7 @@
 14282,Nilah,Blitzcrank,RRRGGRR
 14283,Nilah,Brand,RROGRRR
 14284,Nilah,Braum,RROGGRR
+27149,Nilah,Briar,GRRRGRR
 14285,Nilah,Caitlyn,GGOGRRR
 14286,Nilah,Camille,GROGGRR
 14287,Nilah,Cassiopeia,GROGRRR
@@ -14448,6 +14702,7 @@
 14446,Nocturne,Blitzcrank,RRRGGRR
 14447,Nocturne,Brand,GRRGROG
 14448,Nocturne,Braum,GRRGGRR
+27150,Nocturne,Briar,RGRRGRR
 14449,Nocturne,Caitlyn,RRRGRRG
 14450,Nocturne,Camille,RRRGGRR
 14451,Nocturne,Cassiopeia,RRRGRRR
@@ -14612,6 +14867,7 @@
 14610,Nunu & Willump,Blitzcrank,RRRGGRG
 14611,Nunu & Willump,Brand,GROGROR
 14612,Nunu & Willump,Braum,GROGGGR
+27151,Nunu & Willump,Briar,RGRRGRR
 14613,Nunu & Willump,Caitlyn,RROGRRR
 14614,Nunu & Willump,Camille,RROGGRR
 14615,Nunu & Willump,Cassiopeia,RROGRRR
@@ -14776,6 +15032,7 @@
 14774,Olaf,Blitzcrank,RRRGGRR
 14775,Olaf,Brand,GROGROR
 14776,Olaf,Braum,GRGGGGR
+27152,Olaf,Briar,RORRGRR
 14777,Olaf,Caitlyn,RROGRRR
 14778,Olaf,Camille,ROOGGRR
 14779,Olaf,Cassiopeia,RROGRRG
@@ -14940,6 +15197,7 @@
 14938,Orianna,Blitzcrank,RRGGRRR
 14939,Orianna,Brand,RRRGGRG
 14940,Orianna,Braum,RRRGRRR
+27153,Orianna,Briar,GRGRRRR
 14941,Orianna,Caitlyn,GRRGGGG
 14942,Orianna,Camille,GRRGRGR
 14943,Orianna,Cassiopeia,GGRGRRR
@@ -15104,6 +15362,7 @@
 15102,Ornn,Blitzcrank,RRRGGRR
 15103,Ornn,Brand,GRRGROR
 15104,Ornn,Braum,GRRGGGR
+27154,Ornn,Briar,RRRRGRR
 15105,Ornn,Caitlyn,RRRGRRR
 15106,Ornn,Camille,RGRGGRR
 15107,Ornn,Cassiopeia,RRRGRRR
@@ -15268,6 +15527,7 @@
 15266,Pantheon,Blitzcrank,RORGGRR
 15267,Pantheon,Brand,GOOGRRR
 15268,Pantheon,Braum,GOOGGRR
+27155,Pantheon,Briar,RRRRGRR
 15269,Pantheon,Caitlyn,RROGRRR
 15270,Pantheon,Camille,ROOGGRR
 15271,Pantheon,Cassiopeia,ROOGRRG
@@ -15432,6 +15692,7 @@
 15430,Poppy,Blitzcrank,RRRGGRR
 15431,Poppy,Brand,RRRGRRR
 15432,Poppy,Braum,RRRGGRR
+27156,Poppy,Briar,GORRGRR
 15433,Poppy,Caitlyn,GRRGRRR
 15434,Poppy,Camille,GORGGRR
 15435,Poppy,Cassiopeia,GRRGRRG
@@ -15596,6 +15857,7 @@
 15594,Pyke,Blitzcrank,RGRGGRR
 15595,Pyke,Brand,GGRGRRR
 15596,Pyke,Braum,GGRGGRR
+27157,Pyke,Briar,RRRRGRR
 15597,Pyke,Caitlyn,RRRGRRR
 15598,Pyke,Camille,RRRGGRR
 15599,Pyke,Cassiopeia,RRRGRRR
@@ -15760,6 +16022,7 @@
 15758,Qiyana,Blitzcrank,RRRGGRR
 15759,Qiyana,Brand,RROGRRR
 15760,Qiyana,Braum,RROGGRR
+27158,Qiyana,Briar,GRRRGRR
 15761,Qiyana,Caitlyn,GROGRRR
 15762,Qiyana,Camille,GROGGRR
 15763,Qiyana,Cassiopeia,GGOGRRR
@@ -15924,6 +16187,7 @@
 15922,Quinn,Blitzcrank,RRRGRRR
 15923,Quinn,Brand,RROGGRR
 15924,Quinn,Braum,RROGRRR
+27159,Quinn,Briar,GRRRRRR
 15925,Quinn,Caitlyn,GRGGGRR
 15926,Quinn,Camille,GGOGRRR
 15927,Quinn,Cassiopeia,GROGRRR
@@ -16088,6 +16352,7 @@
 16086,Rakan,Blitzcrank,RGRGGRR
 16087,Rakan,Brand,GGRGRRR
 16088,Rakan,Braum,GGRGGRR
+27160,Rakan,Briar,RRRRGRR
 16089,Rakan,Caitlyn,RRRGRRR
 16090,Rakan,Camille,RRRGGRR
 16091,Rakan,Cassiopeia,RRRGRRR
@@ -16252,6 +16517,7 @@
 16250,Rammus,Blitzcrank,RRRGGRG
 16251,Rammus,Brand,GRRGRRR
 16252,Rammus,Braum,GRRGGRR
+27161,Rammus,Briar,RGRRGRR
 16253,Rammus,Caitlyn,RRRGRRR
 16254,Rammus,Camille,RRRGGRR
 16255,Rammus,Cassiopeia,RRRGROR
@@ -16416,6 +16682,7 @@
 16414,Rek'Sai,Blitzcrank,RRRGGRR
 16415,Rek'Sai,Brand,RRRGRRR
 16416,Rek'Sai,Braum,RRRGGRG
+27162,Rek'Sai,Briar,GGRRGRR
 16417,Rek'Sai,Caitlyn,GRRGRRR
 16418,Rek'Sai,Camille,GRRGGRR
 16419,Rek'Sai,Cassiopeia,GRRGROR
@@ -16580,6 +16847,7 @@
 16578,Rell,Blitzcrank,RGRGGRR
 16579,Rell,Brand,RGOGRRR
 16580,Rell,Braum,RGOGGRR
+27163,Rell,Briar,GRRRGGR
 16581,Rell,Caitlyn,GROGRRR
 16582,Rell,Camille,GROGGRR
 16583,Rell,Cassiopeia,GROGRRR
@@ -16744,6 +17012,7 @@
 16742,Renata Glasc,Blitzcrank,RGRGRGR
 16743,Renata Glasc,Brand,RGOGGRR
 16744,Renata Glasc,Braum,RGOGRRR
+27164,Renata Glasc,Briar,GRRRRRR
 16745,Renata Glasc,Caitlyn,GROGGRR
 16746,Renata Glasc,Camille,GROGRRR
 16747,Renata Glasc,Cassiopeia,GROGRRR
@@ -16908,6 +17177,7 @@
 16906,Renekton,Blitzcrank,RRRRGRR
 16907,Renekton,Brand,GRRRRRG
 16908,Renekton,Braum,GRRRGRR
+27165,Renekton,Briar,RRRRGRR
 16909,Renekton,Caitlyn,RRRRRRG
 16910,Renekton,Camille,RGRRGRR
 16911,Renekton,Cassiopeia,RRRRROR
@@ -17072,6 +17342,7 @@
 17070,Rengar,Blitzcrank,RRRRGRR
 17071,Rengar,Brand,GRRRRRR
 17072,Rengar,Braum,GRRRGRR
+27166,Rengar,Briar,RORRGRR
 17073,Rengar,Caitlyn,RRRRRRR
 17074,Rengar,Camille,RORRGRR
 17075,Rengar,Cassiopeia,RRRRROR
@@ -17236,6 +17507,7 @@
 17234,Riven,Blitzcrank,RRRRGRR
 17235,Riven,Brand,RRORRRG
 17236,Riven,Braum,RRORGRR
+27167,Riven,Briar,GRRRGOR
 17237,Riven,Caitlyn,GRGRRRG
 17238,Riven,Camille,GGORGRR
 17239,Riven,Cassiopeia,GRORRRR
@@ -17400,6 +17672,7 @@
 17398,Rumble,Blitzcrank,RRRRGRR
 17399,Rumble,Brand,GRRRRRG
 17400,Rumble,Braum,GRRRGRR
+27168,Rumble,Briar,RRRRGRR
 17401,Rumble,Caitlyn,RRRRRRG
 17402,Rumble,Camille,RORRGRR
 17403,Rumble,Cassiopeia,RORRRRR
@@ -17564,6 +17837,7 @@
 17562,Ryze,Blitzcrank,RRRGRRG
 17563,Ryze,Brand,GRGGGOR
 17564,Ryze,Braum,GROGRRR
+27169,Ryze,Briar,RRRRRRR
 17565,Ryze,Caitlyn,RROGGRR
 17566,Ryze,Camille,ROOGRRR
 17567,Ryze,Cassiopeia,ROGGRRR
@@ -17728,6 +18002,7 @@
 17726,Samira,Blitzcrank,RRRGRRR
 17727,Samira,Brand,RROGGRR
 17728,Samira,Braum,RROGRRR
+27170,Samira,Briar,GRRRROR
 17729,Samira,Caitlyn,GGGGGRR
 17730,Samira,Camille,GROGRRR
 17731,Samira,Cassiopeia,GROGROR
@@ -17892,6 +18167,7 @@
 17890,Searphine,Blitzcrank,RGRGROR
 17891,Searphine,Brand,RGOGGRR
 17892,Searphine,Braum,RGOGRRR
+27171,Searphine,Briar,GRRRRRR
 17893,Searphine,Caitlyn,GROGGOR
 17894,Searphine,Camille,GROGROR
 17895,Searphine,Cassiopeia,GROGRRR
@@ -18056,6 +18332,7 @@
 18054,Sejuani,Blitzcrank,RRRGGRR
 18055,Sejuani,Brand,RROGROR
 18056,Sejuani,Braum,RRGGGGR
+27172,Sejuani,Briar,GGRRGRR
 18057,Sejuani,Caitlyn,GROGRRR
 18058,Sejuani,Camille,GROGGRR
 18059,Sejuani,Cassiopeia,GROGRRR
@@ -18220,6 +18497,7 @@
 18218,Senna,Blitzcrank,RGRGRRR
 18219,Senna,Brand,RGOGGRR
 18220,Senna,Braum,RGOGRRR
+27173,Senna,Briar,GRRRRRR
 18221,Senna,Caitlyn,GROGGRR
 18222,Senna,Camille,GROGRRR
 18223,Senna,Cassiopeia,GROGRRR
@@ -18384,6 +18662,7 @@
 18382,Sett,Blitzcrank,RRRRGRR
 18383,Sett,Brand,GRORRRR
 18384,Sett,Braum,GRORGRR
+27174,Sett,Briar,RRRRGRR
 18385,Sett,Caitlyn,RRORRRR
 18386,Sett,Camille,RGORGRR
 18387,Sett,Cassiopeia,RRORRRR
@@ -18548,6 +18827,7 @@
 18546,Shaco,Blitzcrank,RRRGGRG
 18547,Shaco,Brand,GRRGROR
 18548,Shaco,Braum,GRRGGRR
+27175,Shaco,Briar,RGRRGRR
 18549,Shaco,Caitlyn,RRRGRRR
 18550,Shaco,Camille,RRRGGRR
 18551,Shaco,Cassiopeia,RRRGRRR
@@ -18712,6 +18992,7 @@
 18710,Shen,Blitzcrank,RRRRGRR
 18711,Shen,Brand,GRORRRR
 18712,Shen,Braum,GRORGRR
+27176,Shen,Briar,RRRRGRR
 18713,Shen,Caitlyn,RRORRRR
 18714,Shen,Camille,RGORGRR
 18715,Shen,Cassiopeia,RRORRRG
@@ -18876,6 +19157,7 @@
 18874,Shyvana,Blitzcrank,RRRRGRR
 18875,Shyvana,Brand,RRORRRG
 18876,Shyvana,Braum,RRRRGRR
+27177,Shyvana,Briar,GGRRGRR
 18877,Shyvana,Caitlyn,GRRRRRG
 18878,Shyvana,Camille,GRRRGRR
 18879,Shyvana,Cassiopeia,GRORRRR
@@ -19040,6 +19322,7 @@
 19038,Singed,Blitzcrank,RRRGGOG
 19039,Singed,Brand,GROGRRR
 19040,Singed,Braum,GROGGRR
+27178,Singed,Briar,RRRRGRR
 19041,Singed,Caitlyn,RROGROR
 19042,Singed,Camille,RGOGGOR
 19043,Singed,Cassiopeia,RROGRRR
@@ -19204,6 +19487,7 @@
 19202,Sion,Blitzcrank,RRRGGRG
 19203,Sion,Brand,GRRGRRR
 19204,Sion,Braum,GRRGGRR
+27179,Sion,Briar,RRRRGGR
 19205,Sion,Caitlyn,RRRGRRR
 19206,Sion,Camille,RGRGGRR
 19207,Sion,Cassiopeia,RRRGRRR
@@ -19368,6 +19652,7 @@
 19366,Sivir,Blitzcrank,RRRGRRG
 19367,Sivir,Brand,RROGGRR
 19368,Sivir,Braum,RROGRRR
+27180,Sivir,Briar,GRRRRRR
 19369,Sivir,Caitlyn,GGGGGRR
 19370,Sivir,Camille,GROGRRR
 19371,Sivir,Cassiopeia,GROGROR
@@ -19532,6 +19817,7 @@
 19530,Skarner,Blitzcrank,RRRGGRR
 19531,Skarner,Brand,GRRGRRG
 19532,Skarner,Braum,GRRGGRR
+27181,Skarner,Briar,RGRRGRR
 19533,Skarner,Caitlyn,RRRGRRG
 19534,Skarner,Camille,RRRGGRR
 19535,Skarner,Cassiopeia,RRRGROR
@@ -19696,6 +19982,7 @@
 19694,Sona,Blitzcrank,RGRGRRR
 19695,Sona,Brand,RGOGGRR
 19696,Sona,Braum,RGOGRRR
+27182,Sona,Briar,GRRRRRR
 19697,Sona,Caitlyn,GROGGRR
 19698,Sona,Camille,GROGRRR
 19699,Sona,Cassiopeia,GROGRRG
@@ -19860,6 +20147,7 @@
 19858,Soraka,Blitzcrank,RGRGRRG
 19859,Soraka,Brand,RGRGGRR
 19860,Soraka,Braum,RGRGRRR
+27183,Soraka,Briar,GRRRRRR
 19861,Soraka,Caitlyn,GRRGGRR
 19862,Soraka,Camille,GRRGRRR
 19863,Soraka,Cassiopeia,GRRGRRR
@@ -20024,6 +20312,7 @@
 20022,Swain,Blitzcrank,RORGRRR
 20023,Swain,Brand,GOGGGRR
 20024,Swain,Braum,GOOGRRR
+27184,Swain,Briar,RRRRRGR
 20025,Swain,Caitlyn,RROGGRR
 20026,Swain,Camille,RROGRRR
 20027,Swain,Cassiopeia,ROGGRRG
@@ -20188,6 +20477,7 @@
 20186,Sylas,Blitzcrank,RRRGGRR
 20187,Sylas,Brand,GROGROR
 20188,Sylas,Braum,GROGGOR
+27185,Sylas,Briar,RRRRGRR
 20189,Sylas,Caitlyn,RROGRRR
 20190,Sylas,Camille,RGOGGRR
 20191,Sylas,Cassiopeia,RROGRRR
@@ -20352,6 +20642,7 @@
 20350,Syndra,Blitzcrank,RRRGRRR
 20351,Syndra,Brand,RROGGRR
 20352,Syndra,Braum,RROGRRR
+27186,Syndra,Briar,GRRRRRR
 20353,Syndra,Caitlyn,GROGGRR
 20354,Syndra,Camille,GROGRRR
 20355,Syndra,Cassiopeia,GGOGRRR
@@ -20516,6 +20807,7 @@
 20514,Tahm Kench,Blitzcrank,RORGGRR
 20515,Tahm Kench,Brand,GORGROR
 20516,Tahm Kench,Braum,GORGGRR
+27187,Tahm Kench,Briar,RRRRGRR
 20517,Tahm Kench,Caitlyn,RRRGRRR
 20518,Tahm Kench,Camille,RORGGRR
 20519,Tahm Kench,Cassiopeia,RRRGRRR
@@ -20680,6 +20972,7 @@
 20678,Taliyah,Blitzcrank,RRRGRRR
 20679,Taliyah,Brand,RROGGRR
 20680,Taliyah,Braum,RROGRRR
+27188,Taliyah,Briar,GORRRRR
 20681,Taliyah,Caitlyn,GROGGRR
 20682,Taliyah,Camille,GROGRRG
 20683,Taliyah,Cassiopeia,GOOGROR
@@ -20844,6 +21137,7 @@
 20842,Talon,Blitzcrank,RRRGGRR
 20843,Talon,Brand,GROGRRG
 20844,Talon,Braum,GROGGRR
+27189,Talon,Briar,RORRGGR
 20845,Talon,Caitlyn,RRGGRRG
 20846,Talon,Camille,RROGGRR
 20847,Talon,Cassiopeia,ROOGRRR
@@ -21008,6 +21302,7 @@
 21006,Taric,Blitzcrank,RGRGGRG
 21007,Taric,Brand,GGOGRRR
 21008,Taric,Braum,GGOGGRR
+27190,Taric,Briar,RRRRGRR
 21009,Taric,Caitlyn,RROGRRR
 21010,Taric,Camille,RROGGRR
 21011,Taric,Cassiopeia,RROGRRR
@@ -21172,6 +21467,7 @@
 21170,Teemo,Blitzcrank,RRRGRRG
 21171,Teemo,Brand,GRRGGRR
 21172,Teemo,Braum,GRRGRRR
+27191,Teemo,Briar,RRRRRRR
 21173,Teemo,Caitlyn,RRRGGRR
 21174,Teemo,Camille,RGRGRRR
 21175,Teemo,Cassiopeia,RRRGRRR
@@ -21336,6 +21632,7 @@
 21334,Thresh,Blitzcrank,RGRGRRR
 21335,Thresh,Brand,GGRGGRR
 21336,Thresh,Braum,GGRGRRR
+27192,Thresh,Briar,RRRRRRR
 21337,Thresh,Caitlyn,RRRGGRR
 21338,Thresh,Camille,RRRGRRR
 21339,Thresh,Cassiopeia,RRRGRRR
@@ -21500,6 +21797,7 @@
 21498,Tristana,Blitzcrank,RRRGRRG
 21499,Tristana,Brand,RRRGGRR
 21500,Tristana,Braum,RRRGRRR
+27193,Tristana,Briar,GRRRRRR
 21501,Tristana,Caitlyn,GGRGGRR
 21502,Tristana,Camille,GRRGRRR
 21503,Tristana,Cassiopeia,GRRGRRR
@@ -21664,6 +21962,7 @@
 21662,Trundle,Blitzcrank,RRRGGRR
 21663,Trundle,Brand,GRRGROR
 21664,Trundle,Braum,GROGGGR
+27194,Trundle,Briar,RORRGRR
 21665,Trundle,Caitlyn,RRRGRRR
 21666,Trundle,Camille,RORGGRR
 21667,Trundle,Cassiopeia,RRRGRRG
@@ -21828,6 +22127,7 @@
 21826,Tryndamere,Blitzcrank,RRRRGRG
 21827,Tryndamere,Brand,GRGRROR
 21828,Tryndamere,Braum,GRORGGR
+27195,Tryndamere,Briar,RRRRGRR
 21829,Tryndamere,Caitlyn,RRORRRR
 21830,Tryndamere,Camille,RGORGRR
 21831,Tryndamere,Cassiopeia,RRGRRRR
@@ -21992,6 +22292,7 @@
 21990,Twisted Fate,Blitzcrank,RRRGRRG
 21991,Twisted Fate,Brand,GROGGRR
 21992,Twisted Fate,Braum,GROGRRR
+27196,Twisted Fate,Briar,RRRRRRR
 21993,Twisted Fate,Caitlyn,RROGGRR
 21994,Twisted Fate,Camille,RROGRRR
 21995,Twisted Fate,Cassiopeia,RGOGRRR
@@ -22156,6 +22457,7 @@
 22154,Twitch,Blitzcrank,RRRGRGG
 22155,Twitch,Brand,GRRGGRR
 22156,Twitch,Braum,GRRGRRR
+27197,Twitch,Briar,RRRRRRR
 22157,Twitch,Caitlyn,RGRGGRR
 22158,Twitch,Camille,RRRGRRR
 22159,Twitch,Cassiopeia,RRRGRRR
@@ -22320,6 +22622,7 @@
 22318,Udyr,Blitzcrank,RRRGGRG
 22319,Udyr,Brand,GROGROR
 22320,Udyr,Braum,GROGGOR
+27198,Udyr,Briar,RORRGRR
 22321,Udyr,Caitlyn,RROGRRR
 22322,Udyr,Camille,ROOGGRR
 22323,Udyr,Cassiopeia,RROGRRR
@@ -22484,6 +22787,7 @@
 22482,Urgot,Blitzcrank,RRRGROR
 22483,Urgot,Brand,GROGGRR
 22484,Urgot,Braum,GROGRRR
+27199,Urgot,Briar,RRRRROR
 22485,Urgot,Caitlyn,RROGGRR
 22486,Urgot,Camille,RGOGRRR
 22487,Urgot,Cassiopeia,RROGRRG
@@ -22648,6 +22952,7 @@
 22646,Varus,Blitzcrank,RRRGRRR
 22647,Varus,Brand,GROGGOR
 22648,Varus,Braum,GROGRRR
+27200,Varus,Briar,RRRRRRR
 22649,Varus,Caitlyn,ROOGGRR
 22650,Varus,Camille,RROGRRR
 22651,Varus,Cassiopeia,ROOGROR
@@ -22812,6 +23117,7 @@
 22810,Vayne,Blitzcrank,RRRGRRR
 22811,Vayne,Brand,RROGGRG
 22812,Vayne,Braum,RROGRRR
+27201,Vayne,Briar,GRRRRRR
 22813,Vayne,Caitlyn,GOGGGRG
 22814,Vayne,Camille,GOOGRRR
 22815,Vayne,Cassiopeia,GROGRRR
@@ -22976,6 +23282,7 @@
 22974,Veigar,Blitzcrank,RRRGRRG
 22975,Veigar,Brand,GRRGGOR
 22976,Veigar,Braum,GRRGRRR
+27202,Veigar,Briar,RRRRRRR
 22977,Veigar,Caitlyn,RRRGGRR
 22978,Veigar,Camille,RRRGRRR
 22979,Veigar,Cassiopeia,RGRGRRR
@@ -23140,6 +23447,7 @@
 23138,Vel'Koz,Blitzcrank,RORGRRR
 23139,Vel'Koz,Brand,GORGGRR
 23140,Vel'Koz,Braum,GORGRRG
+27203,Vel'Koz,Briar,RRRRRRR
 23141,Vel'Koz,Caitlyn,RRRGGRR
 23142,Vel'Koz,Camille,RRRGRRR
 23143,Vel'Koz,Cassiopeia,RORGRRR
@@ -23304,6 +23612,7 @@
 23302,Vex,Blitzcrank,RRRGRRR
 23303,Vex,Brand,RRRGGRR
 23304,Vex,Braum,RRRGRRR
+27204,Vex,Briar,GRRRRRR
 23305,Vex,Caitlyn,GRRGGRR
 23306,Vex,Camille,GRRGRRR
 23307,Vex,Cassiopeia,GGRGRRR
@@ -23468,6 +23777,7 @@
 23466,Vi,Blitzcrank,RRRGGOR
 23467,Vi,Brand,RROGRRR
 23468,Vi,Braum,RROGGRR
+27205,Vi,Briar,GGRRGRR
 23469,Vi,Caitlyn,GRGGROR
 23470,Vi,Camille,GROGGOR
 23471,Vi,Cassiopeia,GROGRRR
@@ -23632,6 +23942,7 @@
 23630,Viego,Blitzcrank,RRRRGRR
 23631,Viego,Brand,GRRRRRR
 23632,Viego,Braum,GRRRGRR
+27206,Viego,Briar,RGRRGRR
 23633,Viego,Caitlyn,RRRRRRR
 23634,Viego,Camille,RRRRGRR
 23635,Viego,Cassiopeia,RRRRRRR
@@ -23796,6 +24107,7 @@
 23794,Viktor,Blitzcrank,RRRGROR
 23795,Viktor,Brand,GROGGRG
 23796,Viktor,Braum,GROGRRR
+27207,Viktor,Briar,RRRRRRR
 23797,Viktor,Caitlyn,RROGGOG
 23798,Viktor,Camille,RRGGROR
 23799,Viktor,Cassiopeia,RGOGRRR
@@ -23960,6 +24272,7 @@
 23958,Vladimir,Blitzcrank,RRRRRRR
 23959,Vladimir,Brand,GRGRGRR
 23960,Vladimir,Braum,GRORRRR
+27208,Vladimir,Briar,RRRRROR
 23961,Vladimir,Caitlyn,RRORGRR
 23962,Vladimir,Camille,RRORRRR
 23963,Vladimir,Cassiopeia,RGGRRRG
@@ -24124,6 +24437,7 @@
 24122,Volibear,Blitzcrank,RRRGGRR
 24123,Volibear,Brand,GRRGROG
 24124,Volibear,Braum,GRRGGGR
+27209,Volibear,Briar,RORRGRR
 24125,Volibear,Caitlyn,RRRGRRG
 24126,Volibear,Camille,RORGGRR
 24127,Volibear,Cassiopeia,RRRGRRR
@@ -24288,6 +24602,7 @@
 24286,Warwick,Blitzcrank,RRRGGGG
 24287,Warwick,Brand,GROGRRR
 24288,Warwick,Braum,GROGGRR
+27210,Warwick,Briar,RORRGRR
 24289,Warwick,Caitlyn,RROGRRR
 24290,Warwick,Camille,ROOGGRR
 24291,Warwick,Cassiopeia,RROGRRR
@@ -24452,6 +24767,7 @@
 24450,Wukong,Blitzcrank,RRRGGRR
 24451,Wukong,Brand,GRRGRRG
 24452,Wukong,Braum,GRRGGRR
+27211,Wukong,Briar,RORRGRR
 24453,Wukong,Caitlyn,RRRGRRG
 24454,Wukong,Camille,RORGGRR
 24455,Wukong,Cassiopeia,RRRGRRR
@@ -24616,6 +24932,7 @@
 24614,Xayah,Blitzcrank,RRRGRRR
 24615,Xayah,Brand,RRRGGRR
 24616,Xayah,Braum,RRRGRRR
+27212,Xayah,Briar,GRRRRRR
 24617,Xayah,Caitlyn,GGRGGRR
 24618,Xayah,Camille,GRRGRRR
 24619,Xayah,Cassiopeia,GRRGRRR
@@ -24780,6 +25097,7 @@
 24778,Xerath,Blitzcrank,RORGRRR
 24779,Xerath,Brand,GORGGRG
 24780,Xerath,Braum,GORGRRR
+27213,Xerath,Briar,RRRRRRR
 24781,Xerath,Caitlyn,RRRGGRG
 24782,Xerath,Camille,RRRGRRR
 24783,Xerath,Cassiopeia,RORGROR
@@ -24944,6 +25262,7 @@
 24942,Xin Zhao,Blitzcrank,RRRGGRR
 24943,Xin Zhao,Brand,GROGRRR
 24944,Xin Zhao,Braum,GROGGRR
+27214,Xin Zhao,Briar,RGRRGOR
 24945,Xin Zhao,Caitlyn,RRGGRRR
 24946,Xin Zhao,Camille,RROGGRR
 24947,Xin Zhao,Cassiopeia,RROGRRG
@@ -25108,6 +25427,7 @@
 25106,Yasuo,Blitzcrank,RRRRGRR
 25107,Yasuo,Brand,GRORRRR
 25108,Yasuo,Braum,GRORGRR
+27215,Yasuo,Briar,RRRRGRR
 25109,Yasuo,Caitlyn,RRORRRR
 25110,Yasuo,Camille,RRORGRR
 25111,Yasuo,Cassiopeia,RGORRRR
@@ -25272,6 +25592,7 @@
 25270,Yone,Blitzcrank,RRRRGRR
 25271,Yone,Brand,GRGRRRR
 25272,Yone,Braum,GRORGRR
+27216,Yone,Briar,RRRRGRR
 25273,Yone,Caitlyn,RRORRRR
 25274,Yone,Camille,ROORGRR
 25275,Yone,Cassiopeia,ROGRRRR
@@ -25436,6 +25757,7 @@
 25434,Yorick,Blitzcrank,RRRGGRR
 25435,Yorick,Brand,GRGGRRG
 25436,Yorick,Braum,GROGGRR
+27217,Yorick,Briar,RRRRGRR
 25437,Yorick,Caitlyn,RROGRRG
 25438,Yorick,Camille,RGOGGRR
 25439,Yorick,Cassiopeia,RRGGRRR
@@ -25600,6 +25922,7 @@
 25598,Yuumi,Blitzcrank,RGRGRRR
 25599,Yuumi,Brand,RGOGGRR
 25600,Yuumi,Braum,RGRGRRR
+27218,Yuumi,Briar,GRRRRRR
 25601,Yuumi,Caitlyn,GRRGGRR
 25602,Yuumi,Camille,GRRGRRR
 25603,Yuumi,Cassiopeia,GROGRRR
@@ -25764,6 +26087,7 @@
 25762,Zac,Blitzcrank,RRGRGGR
 25763,Zac,Brand,GRRRRRR
 25764,Zac,Braum,GRRRGRR
+27219,Zac,Briar,RGGRGRR
 25765,Zac,Caitlyn,RRRRRRR
 25766,Zac,Camille,RRRRGRR
 25767,Zac,Cassiopeia,RRRRRRR
@@ -25928,6 +26252,7 @@
 25926,Zed,Blitzcrank,RRRRGRR
 25927,Zed,Brand,GRGRRRR
 25928,Zed,Braum,GRORGRR
+27220,Zed,Briar,RRRRGRR
 25929,Zed,Caitlyn,RRORRRR
 25930,Zed,Camille,RRORGRR
 25931,Zed,Cassiopeia,RGGRRRR
@@ -26092,6 +26417,7 @@
 26090,Zeri,Blitzcrank,RRRGRGR
 26091,Zeri,Brand,RROGGRR
 26092,Zeri,Braum,RROGRRR
+27221,Zeri,Briar,GRRRRRR
 26093,Zeri,Caitlyn,GGOGGRR
 26094,Zeri,Camille,GROGRRR
 26095,Zeri,Cassiopeia,GROGRRR
@@ -26256,6 +26582,7 @@
 26254,Ziggs,Blitzcrank,RRRGRGR
 26255,Ziggs,Brand,GRRGGRR
 26256,Ziggs,Braum,GRRGRRR
+27222,Ziggs,Briar,RRRRRRR
 26257,Ziggs,Caitlyn,RORGGRR
 26258,Ziggs,Camille,RRRGRRR
 26259,Ziggs,Cassiopeia,RORGRRR
@@ -26420,6 +26747,7 @@
 26418,Zilean,Blitzcrank,RGRGRRG
 26419,Zilean,Brand,GGOGGOR
 26420,Zilean,Braum,GGOGRRR
+27223,Zilean,Briar,RRRRRRR
 26421,Zilean,Caitlyn,RROGGRR
 26422,Zilean,Camille,RROGRRR
 26423,Zilean,Cassiopeia,RROGROR
@@ -26584,6 +26912,7 @@
 26582,Zoe,Blitzcrank,RRRGRRR
 26583,Zoe,Brand,RROGGRR
 26584,Zoe,Braum,RROGRRR
+27224,Zoe,Briar,GRRRRRR
 26585,Zoe,Caitlyn,GROGGRR
 26586,Zoe,Camille,GROGRRR
 26587,Zoe,Cassiopeia,GGOGRRR
@@ -26748,6 +27077,7 @@
 26746,Zyra,Blitzcrank,RGRGRRR
 26747,Zyra,Brand,RGRGGRR
 26748,Zyra,Braum,RGRGRRR
+27225,Zyra,Briar,GRRRRRR
 26749,Zyra,Caitlyn,GRRGGRR
 26750,Zyra,Camille,GRRGRRR
 26751,Zyra,Cassiopeia,GRRGRRR

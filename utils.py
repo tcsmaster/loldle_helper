@@ -73,7 +73,7 @@ def get_comparison_from_champs(df):
                         {
                             'Guessed_Champion':el[0].Name,
                             'Actual_Champion':el[1].Name,
-                            'Comparison':get_comparison_from_champs(el[0], el[1])
+                            'Comparison':get_result_of_comparison(el[0], el[1])
 
                         }
                     ]
@@ -146,7 +146,8 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
 
 def update_championsdf_with_new_champ(
     new_champ:Champion,
-    champions_df:pd.DataFrame
+    champions_df:pd.DataFrame,
+    path:str
     ) -> pd.DataFrame:
     champions_df = pd.concat(
         [
@@ -157,4 +158,5 @@ def update_championsdf_with_new_champ(
     )
     champions_df.sort_values(by = 'Name',inplace=True)
     champions_df.reset_index(drop=True, inplace=True)
-    return champions_df
+    champions_df.to_csv(path)
+    return 
