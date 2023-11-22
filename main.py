@@ -36,6 +36,8 @@ def main():
                     relations_df
                 )
             )
+        if len(candidate_champs) == 1:
+            break
         next_champ_guess = next_best_guess(
             candidate_champs,
             guess.get_all_possible_matches(
@@ -48,6 +50,6 @@ def main():
         print(candidate_champs)
         print(f'The champion with the largest information gain is {next_champ_guess}\n')
 
-    print(f"There is only one champion left: {candidate_champs}")
+    print(f"There is only one champion left: {candidate_champs[0]}")
 if __name__ == '__main__':
     main()

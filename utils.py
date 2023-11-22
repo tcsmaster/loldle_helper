@@ -123,7 +123,7 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
         try:
             ui = type_(ui)
         except ValueError as e:
-            print('Ligma balls!')
+            print('The input has to be a string!')
         if question == 'champion':
             ui = ui.title()
             if ui not in champs_list:
@@ -132,7 +132,6 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
                 return ui
         elif question == 'color_answer':
             ui = ui.upper()
-            print(ui)
             if len(ui) != 7:
                 print('The answer is not the correct length! Either you missed a letter, or you typed too many!')
                 continue
