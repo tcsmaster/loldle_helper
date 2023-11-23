@@ -1174,7 +1174,7 @@
 0,Annie,Briar,GRRRROR
 0,Annie,Caitlyn,GROGGRR
 0,Annie,Camille,GROGRRR
-0,Annie,Cassiopeia,GOOGGRR
+0,Annie,Cassiopeia,GOOGGOR
 0,Annie,Cho'Gath,RRRGRRG
 0,Annie,Corki,RORGGRG
 0,Annie,Darius,RROGROR
@@ -2824,7 +2824,7 @@
 0,Briar,Briar,GGGGGGG
 0,Briar,Caitlyn,GRRRRRR
 0,Briar,Camille,GRRRGRR
-0,Briar,Cassiopeia,GRRRRRR
+0,Briar,Cassiopeia,GRRRROR
 0,Briar,Cho'Gath,RRRRGRR
 0,Briar,Corki,RRRRRRR
 0,Briar,Darius,RRRRGGR
@@ -3306,7 +3306,7 @@
 0,Cassiopeia,Alistar,RRRGRRR
 0,Cassiopeia,Amumu,RRRGROR
 0,Cassiopeia,Anivia,GGRGGRR
-0,Cassiopeia,Annie,GOOGGRR
+0,Cassiopeia,Annie,GOOGGOR
 0,Cassiopeia,Aphelios,RROGGRR
 0,Cassiopeia,Ashe,GROGGRR
 0,Cassiopeia,Aurelion Sol,RGRGGRR
@@ -3316,18 +3316,18 @@
 0,Cassiopeia,Blitzcrank,RRRGRRR
 0,Cassiopeia,Brand,RRGGGRR
 0,Cassiopeia,Braum,RROGRRR
-0,Cassiopeia,Briar,GRRRRRR
+0,Cassiopeia,Briar,GRRRROR
 0,Cassiopeia,Caitlyn,GROGGRR
 0,Cassiopeia,Camille,GROGRRR
 0,Cassiopeia,Cassiopeia,GGGGGGG
 0,Cassiopeia,Cho'Gath,RRRGRRR
 0,Cassiopeia,Corki,RGRGGRR
-0,Cassiopeia,Darius,RROGRRR
+0,Cassiopeia,Darius,RROGROR
 0,Cassiopeia,Diana,GOOGRRR
 0,Cassiopeia,Dr. Mundo,RRORRRR
-0,Cassiopeia,Draven,RROGGRR
+0,Cassiopeia,Draven,RROGGOR
 0,Cassiopeia,Ekko,ROOGRRR
-0,Cassiopeia,Elise,GRGGORR
+0,Cassiopeia,Elise,GRGGOOR
 0,Cassiopeia,Evelynn,GRRGRRR
 0,Cassiopeia,Ezreal,RROGGRG
 0,Cassiopeia,Fiddlesticks,RRRGGRR
@@ -3355,17 +3355,17 @@
 0,Cassiopeia,Kai'Sa,GROGGOR
 0,Cassiopeia,Kalista,GRRGGRR
 0,Cassiopeia,Karma,GROGGRR
-0,Cassiopeia,Karthus,RRRGGRR
+0,Cassiopeia,Karthus,RRRGGOR
 0,Cassiopeia,Kassadin,RGOGROR
-0,Cassiopeia,Katarina,GGORRRR
+0,Cassiopeia,Katarina,GGORROR
 0,Cassiopeia,Kayle,GROGORR
 0,Cassiopeia,Kayn,RROGROR
 0,Cassiopeia,Kennen,RRRRGRG
 0,Cassiopeia,Kha'Zix,RRRGRRR
 0,Cassiopeia,Kindred,RRRGGRR
-0,Cassiopeia,Kled,RRRRRRR
+0,Cassiopeia,Kled,RRRRROR
 0,Cassiopeia,Kog'Maw,RRRGGRG
-0,Cassiopeia,LeBlanc,GGGGGRG
+0,Cassiopeia,LeBlanc,GGGGGOG
 0,Cassiopeia,Lee Sin,RRORRRR
 0,Cassiopeia,Leona,GROGRRR
 0,Cassiopeia,Lillia,GRRGRRR
@@ -3379,7 +3379,7 @@
 0,Cassiopeia,Master Yi,RROGRRR
 0,Cassiopeia,Millio,RROGGRR
 0,Cassiopeia,Miss Fortune,GROGGRG
-0,Cassiopeia,Mordekaiser,RRRRRRG
+0,Cassiopeia,Mordekaiser,RRRRROG
 0,Cassiopeia,Morgana,GROGGRR
 0,Cassiopeia,Naafiri,GGRGROR
 0,Cassiopeia,Nami,GRRGGOG
@@ -3401,14 +3401,14 @@
 0,Cassiopeia,Rakan,RRRGRRR
 0,Cassiopeia,Rammus,RRRGROR
 0,Cassiopeia,Rek'Sai,GRRGROR
-0,Cassiopeia,Rell,GROGRRR
+0,Cassiopeia,Rell,GROGROR
 0,Cassiopeia,Renata Glasc,GROGGRR
 0,Cassiopeia,Renekton,RRRRROR
 0,Cassiopeia,Rengar,RRRRROR
-0,Cassiopeia,Riven,GRORRRR
+0,Cassiopeia,Riven,GRORROR
 0,Cassiopeia,Rumble,RORRRRR
 0,Cassiopeia,Ryze,ROGGGRR
-0,Cassiopeia,Samira,GROGGOR
+0,Cassiopeia,Samira,GROGGGR
 0,Cassiopeia,Searphine,GROGGRR
 0,Cassiopeia,Sejuani,GROGRRR
 0,Cassiopeia,Senna,GROGGRR
@@ -3417,17 +3417,17 @@
 0,Cassiopeia,Shen,RRORRRG
 0,Cassiopeia,Shyvana,GRORRRR
 0,Cassiopeia,Singed,RROGRRR
-0,Cassiopeia,Sion,RRRGRRR
+0,Cassiopeia,Sion,RRRGROR
 0,Cassiopeia,Sivir,GROGGOR
 0,Cassiopeia,Skarner,RRRGROR
 0,Cassiopeia,Sona,GROGGRG
 0,Cassiopeia,Soraka,GRRGGRR
-0,Cassiopeia,Swain,ROGGGRG
+0,Cassiopeia,Swain,ROGGGOG
 0,Cassiopeia,Sylas,RROGRRR
 0,Cassiopeia,Syndra,GGOGGRR
 0,Cassiopeia,Tahm Kench,RRRGRRR
 0,Cassiopeia,Taliyah,GOOGGOR
-0,Cassiopeia,Talon,ROOGRRR
+0,Cassiopeia,Talon,ROOGROR
 0,Cassiopeia,Taric,RROGRRR
 0,Cassiopeia,Teemo,RRRGGRR
 0,Cassiopeia,Thresh,RRRGGRR
@@ -3437,7 +3437,7 @@
 0,Cassiopeia,Twisted Fate,RGOGGRR
 0,Cassiopeia,Twitch,RRRGGRR
 0,Cassiopeia,Udyr,RROGRRR
-0,Cassiopeia,Urgot,RROGGRG
+0,Cassiopeia,Urgot,RROGGOG
 0,Cassiopeia,Varus,ROOGGOR
 0,Cassiopeia,Vayne,GROGGRR
 0,Cassiopeia,Veigar,RGRGGRR
@@ -3446,13 +3446,13 @@
 0,Cassiopeia,Vi,GROGRRR
 0,Cassiopeia,Viego,RRRRRRR
 0,Cassiopeia,Viktor,RGOGGRR
-0,Cassiopeia,Vladimir,RGGRGRG
+0,Cassiopeia,Vladimir,RGGRGOG
 0,Cassiopeia,Volibear,RRRGRRR
 0,Cassiopeia,Warwick,RROGRRR
 0,Cassiopeia,Wukong,RRRGRRR
 0,Cassiopeia,Xayah,GRRGGRR
 0,Cassiopeia,Xerath,RORGGOR
-0,Cassiopeia,Xin Zhao,RROGRRG
+0,Cassiopeia,Xin Zhao,RROGROG
 0,Cassiopeia,Yasuo,RGORRRR
 0,Cassiopeia,Yone,ROGRRRR
 0,Cassiopeia,Yorick,RRGGRRR
@@ -3814,7 +3814,7 @@
 0,Darius,Briar,RRRRGGR
 0,Darius,Caitlyn,RRGGRRR
 0,Darius,Camille,RGOGGRR
-0,Darius,Cassiopeia,RROGRRR
+0,Darius,Cassiopeia,RROGROR
 0,Darius,Cho'Gath,GGRGGRR
 0,Darius,Corki,GRRGRRR
 0,Darius,Darius,GGGGGGG
@@ -4309,7 +4309,7 @@
 0,Draven,Briar,RRRRRGR
 0,Draven,Caitlyn,RGGGGRR
 0,Draven,Camille,RROGRRR
-0,Draven,Cassiopeia,RROGGRR
+0,Draven,Cassiopeia,RROGGOR
 0,Draven,Cho'Gath,GRRGRRR
 0,Draven,Corki,GRRGGRR
 0,Draven,Darius,GRGGRGG
@@ -4639,7 +4639,7 @@
 0,Elise,Briar,GGRROOR
 0,Elise,Caitlyn,GROGORR
 0,Elise,Camille,GROGORR
-0,Elise,Cassiopeia,GRGGORR
+0,Elise,Cassiopeia,GRGGOOR
 0,Elise,Cho'Gath,RRRGORR
 0,Elise,Corki,RRRGORR
 0,Elise,Darius,RROGOOG
@@ -9259,7 +9259,7 @@
 0,Karthus,Briar,RGRRROR
 0,Karthus,Caitlyn,RRRGGRR
 0,Karthus,Camille,RRRGRRR
-0,Karthus,Cassiopeia,RRRGGRR
+0,Karthus,Cassiopeia,RRRGGOR
 0,Karthus,Cho'Gath,GRRGRRG
 0,Karthus,Corki,GRRGGRG
 0,Karthus,Darius,GRRGROR
@@ -9589,7 +9589,7 @@
 0,Katarina,Briar,GRRRGGR
 0,Katarina,Caitlyn,GRGRRRR
 0,Katarina,Camille,GRORGRR
-0,Katarina,Cassiopeia,GGORRRR
+0,Katarina,Cassiopeia,GGORROR
 0,Katarina,Cho'Gath,RRRRGRG
 0,Katarina,Corki,RGRRRRG
 0,Katarina,Darius,RRGRGGR
@@ -10579,7 +10579,7 @@
 0,Kled,Briar,RRRRGGR
 0,Kled,Caitlyn,RRRRRRR
 0,Kled,Camille,RGRRGRG
-0,Kled,Cassiopeia,RRRRRRR
+0,Kled,Cassiopeia,RRRRROR
 0,Kled,Cho'Gath,GGRRGRR
 0,Kled,Corki,GRGRRRR
 0,Kled,Darius,GGRRGGR
@@ -10909,7 +10909,7 @@
 0,LeBlanc,Briar,GRRRRGR
 0,LeBlanc,Caitlyn,GROGGRR
 0,LeBlanc,Camille,GROGRRR
-0,LeBlanc,Cassiopeia,GGGGGRG
+0,LeBlanc,Cassiopeia,GGGGGOG
 0,LeBlanc,Cho'Gath,RRRGRRR
 0,LeBlanc,Corki,RGRGGRR
 0,LeBlanc,Darius,RROGRGR
@@ -13219,7 +13219,7 @@
 0,Mordekaiser,Briar,RRRRGGR
 0,Mordekaiser,Caitlyn,RRRRRRR
 0,Mordekaiser,Camille,RGRRGRR
-0,Mordekaiser,Cassiopeia,RRRRRRG
+0,Mordekaiser,Cassiopeia,RRRRROG
 0,Mordekaiser,Cho'Gath,GGRRGRR
 0,Mordekaiser,Corki,GRRRRRR
 0,Mordekaiser,Darius,GGRRGGR
@@ -16849,7 +16849,7 @@
 0,Rell,Briar,GRRRGGR
 0,Rell,Caitlyn,GROGRRR
 0,Rell,Camille,GROGGRR
-0,Rell,Cassiopeia,GROGRRR
+0,Rell,Cassiopeia,GROGROR
 0,Rell,Cho'Gath,RRRGGRR
 0,Rell,Corki,RRRGRRR
 0,Rell,Darius,RROGGGR
@@ -17509,7 +17509,7 @@
 0,Riven,Briar,GRRRGOR
 0,Riven,Caitlyn,GRGRRRG
 0,Riven,Camille,GGORGRR
-0,Riven,Cassiopeia,GRORRRR
+0,Riven,Cassiopeia,GRORROR
 0,Riven,Cho'Gath,RGRRGRR
 0,Riven,Corki,RRRRRRR
 0,Riven,Darius,RGGRGOR
@@ -18004,7 +18004,7 @@
 0,Samira,Briar,GRRRROR
 0,Samira,Caitlyn,GGGGGRR
 0,Samira,Camille,GROGRRR
-0,Samira,Cassiopeia,GROGGOR
+0,Samira,Cassiopeia,GROGGGR
 0,Samira,Cho'Gath,RRRGRRR
 0,Samira,Corki,RRRGGRR
 0,Samira,Darius,RRGGROR
@@ -19489,7 +19489,7 @@
 0,Sion,Briar,RRRRGGR
 0,Sion,Caitlyn,RRRGRRR
 0,Sion,Camille,RGRGGRR
-0,Sion,Cassiopeia,RRRGRRR
+0,Sion,Cassiopeia,RRRGROR
 0,Sion,Cho'Gath,GGRGGRG
 0,Sion,Corki,GRRGRRG
 0,Sion,Darius,GGRGGGR
@@ -20314,7 +20314,7 @@
 0,Swain,Briar,RRRRRGR
 0,Swain,Caitlyn,RROGGRR
 0,Swain,Camille,RROGRRR
-0,Swain,Cassiopeia,ROGGGRG
+0,Swain,Cassiopeia,ROGGGOG
 0,Swain,Cho'Gath,GRRGRRR
 0,Swain,Corki,GORGGRR
 0,Swain,Darius,GROGRGR
@@ -21139,7 +21139,7 @@
 0,Talon,Briar,RORRGGR
 0,Talon,Caitlyn,RRGGRRG
 0,Talon,Camille,RROGGRR
-0,Talon,Cassiopeia,ROOGRRR
+0,Talon,Cassiopeia,ROOGROR
 0,Talon,Cho'Gath,GRRGGRR
 0,Talon,Corki,GORGRRR
 0,Talon,Darius,GRGGGGR
@@ -22789,7 +22789,7 @@
 0,Urgot,Briar,RRRRROR
 0,Urgot,Caitlyn,RROGGRR
 0,Urgot,Camille,RGOGRRR
-0,Urgot,Cassiopeia,RROGGRG
+0,Urgot,Cassiopeia,RROGGOG
 0,Urgot,Cho'Gath,GGRGRRR
 0,Urgot,Corki,GRRGGRR
 0,Urgot,Darius,GGOGROR
@@ -24274,7 +24274,7 @@
 0,Vladimir,Briar,RRRRROR
 0,Vladimir,Caitlyn,RRORGRR
 0,Vladimir,Camille,RRORRRR
-0,Vladimir,Cassiopeia,RGGRGRG
+0,Vladimir,Cassiopeia,RGGRGOG
 0,Vladimir,Cho'Gath,GRRRRRR
 0,Vladimir,Corki,GGRRGRR
 0,Vladimir,Darius,GRORROR
@@ -25264,7 +25264,7 @@
 0,Xin Zhao,Briar,RGRRGOR
 0,Xin Zhao,Caitlyn,RRGGRRR
 0,Xin Zhao,Camille,RROGGRR
-0,Xin Zhao,Cassiopeia,RROGRRG
+0,Xin Zhao,Cassiopeia,RROGROG
 0,Xin Zhao,Cho'Gath,GRRGGRR
 0,Xin Zhao,Corki,GRRGRRR
 0,Xin Zhao,Darius,GRGGGOR
