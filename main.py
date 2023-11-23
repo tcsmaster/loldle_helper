@@ -50,6 +50,6 @@ def main():
         print(candidate_champs)
         print(f'The champion with the largest information gain is {next_champ_guess}\n')
 
-    print(f"There is only one champion left: {candidate_champs[0]}")
+    print(f"There is only one champion left: {candidate_champs}")
 if __name__ == '__main__':
     main()
