@@ -1,6 +1,6 @@
 from utils import *
 def main():
-    champions_df = pd.read_pickle('/content/loldle_helper/data/champions_df.pkl')
+    champions_df = pd.read_pickle('/content/loldle_helper/data/champions_df.pickle')
     relations_df = pd.read_csv('/content/loldle_helper/data/relations_df.csv')
 
     candidate_champs = set(champions_df['Name'].to_list())
