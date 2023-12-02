@@ -1,14 +1,15 @@
 from utils import *
 def main():
-    champions_df = pd.read_pickle('/content/loldle_helper/data/champions_df.pickle')
+    with open('/content/loldle_helper/champs_list.txt') as f:
+        champs_list = [el.strip("\n") for el in f.readlines()]
     relations_df = pd.read_csv('/content/loldle_helper/data/relations_df.csv')
 
-    candidate_champs = set(champions_df['Name'].to_list())
+    candidate_champs = set(champs_list)
     while True:
         guess_champ = sanitised_input(
             prompt='Which champion was your guess? ',
             question='champion',
-            champs_list = champions_df['Name'].to_list()
+            champs_list = champs_list
             )
         guess_color_scheme = sanitised_input(
             prompt='What were the colors for the guess? ',
@@ -47,7 +48,7 @@ def main():
         )
         
         print(f"Based on the color scheme,there are {len(candidate_champs)} possible champions left:\n")
-        print(candidate_champs)
+        print(*candidate_champs, sep=', ')
         print(f'The champion with the largest information gain is {next_champ_guess}\n')
 
     print(f"There is only one champion left: {candidate_champs}")
