@@ -1,4 +1,4 @@
-from utils import *
+from utils import next_best_guess,champ_entropy
 def main():
     with open('/content/loldle_helper/champs_list.txt') as f:
         champs_list = [el.strip("\n") for el in f.readlines()]

@@ -21,16 +21,6 @@ class Guess():
         self.champion = champion
         self.color_code = color_code
 
-    def get_all_possible_matches(self,
-        champions:List,
-        df:pd.DataFrame
-        ) -> pd.DataFrame:
-        possible_matches = df.loc[
-        (df['Guessed_Champion'].isin(champions))\
-        &(df['Actual_Champion'].isin(champions))
-        ]
-        return possible_matches
-
     def match_candidates_for_champ(self,df:pd.DataFrame) -> list:
         return_list = df.loc[
             (df['Guessed_Champion'] == self.champion)\
@@ -54,6 +44,19 @@ def champ_entropy(champion,df:pd.DataFrame) -> float:
         .value_counts()
         ).to_numpy()
         return entropy(pk=champ_probs)
+
+def get_all_possible_matches(
+    champions:List,
+    df:pd.DataFrame
+    ) -> pd.DataFrame:
+    """
+        
+    """
+    possible_matches = df.loc[
+        (df['Guessed_Champion'].isin(champions))\
+        &(df['Actual_Champion'].isin(champions))
+    ]
+    return possible_matches
 
 def get_comparison_from_champs(df):
     a = [Champion(**df.iloc[i, :]) for i in range(df.shape[0])]
