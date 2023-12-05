@@ -484,7 +484,7 @@
 0,Akali,Xerath,RORRRRR
 0,Akali,Xin Zhao,RRGRGOR
 0,Akali,Yasuo,ROORGGR
-0,Akali,Yone,RGORGRR
+0,Akali,Yone,RGORGGR
 0,Akali,Yorick,ROORGRR
 0,Akali,Yuumi,GRRRRRR
 0,Akali,Zac,RRRRGRR
@@ -4660,7 +4660,7 @@
 0,Elise,Gragas,ROOGORR
 0,Elise,Graves,RGOGORR
 0,Elise,Gwen,GRGGOOR
-0,Elise,Hecarim,RGRGORG
+0,Elise,Hecarim,RGRGOOG
 0,Elise,Heimerdinger,RRRGORR
 0,Elise,Illaoi,GROGORR
 0,Elise,Irelia,GROGORR
@@ -6640,7 +6640,7 @@
 0,Gwen,Gragas,ROOGGRR
 0,Gwen,Graves,RROGRRR
 0,Gwen,Gwen,GGGGGGG
-0,Gwen,Hecarim,RRRGGRR
+0,Gwen,Hecarim,RRRGGGR
 0,Gwen,Heimerdinger,RRRGRRR
 0,Gwen,Illaoi,GGOGGRR
 0,Gwen,Irelia,GOOGGRR
@@ -6792,7 +6792,7 @@
 0,Hecarim,Dr. Mundo,GRRRGRR
 0,Hecarim,Draven,GRRGRRG
 0,Hecarim,Ekko,GORGGRR
-0,Hecarim,Elise,RGRGORG
+0,Hecarim,Elise,RGRGOOG
 0,Hecarim,Evelynn,RGRGGRR
 0,Hecarim,Ezreal,GRRGRRR
 0,Hecarim,Fiddlesticks,RGRGRRR
@@ -6804,7 +6804,7 @@
 0,Hecarim,Gnar,GRRRORR
 0,Hecarim,Gragas,GORGGRR
 0,Hecarim,Graves,GGRGRRR
-0,Hecarim,Gwen,RRRGGRR
+0,Hecarim,Gwen,RRRGGGR
 0,Hecarim,Hecarim,GGGGGGG
 0,Hecarim,Heimerdinger,GRRGRRR
 0,Hecarim,Illaoi,RRRGGRR
@@ -6818,9 +6818,9 @@
 0,Hecarim,Jinx,RRRGRRR
 0,Hecarim,K'Sante,GRRGGRR
 0,Hecarim,Kai'Sa,RRRGRRR
-0,Hecarim,Kalista,RRGGRRR
+0,Hecarim,Kalista,RRGGRGR
 0,Hecarim,Karma,RRRGRRR
-0,Hecarim,Karthus,GGGGRRR
+0,Hecarim,Karthus,GGGGROR
 0,Hecarim,Kassadin,GRRGGRR
 0,Hecarim,Katarina,RRRRGRR
 0,Hecarim,Kayle,RRRGORR
@@ -6835,12 +6835,12 @@
 0,Hecarim,Leona,RRRGGRR
 0,Hecarim,Lillia,RGRGGRR
 0,Hecarim,Lissandra,RRRGRRR
-0,Hecarim,Lucian,GRRGRRR
+0,Hecarim,Lucian,GRRGROR
 0,Hecarim,Lulu,RRRGRRG
 0,Hecarim,Lux,RRRGRRR
 0,Hecarim,Malphite,GRRGGRR
 0,Hecarim,Malzahar,GRRGRRR
-0,Hecarim,Maokai,GORGGRR
+0,Hecarim,Maokai,GORGGOR
 0,Hecarim,Master Yi,GGRGGRR
 0,Hecarim,Millio,GRRGRRR
 0,Hecarim,Miss Fortune,RRRGRRR
@@ -6876,7 +6876,7 @@
 0,Hecarim,Samira,RRRGRRR
 0,Hecarim,Seraphine,RRRGRRR
 0,Hecarim,Sejuani,RGRGGRG
-0,Hecarim,Senna,RROGRRR
+0,Hecarim,Senna,RROGROR
 0,Hecarim,Sett,GRRRGRR
 0,Hecarim,Shaco,GGRGGRR
 0,Hecarim,Shen,GRRRGRR
@@ -6895,7 +6895,7 @@
 0,Hecarim,Talon,GORGGRR
 0,Hecarim,Taric,GRRGGRR
 0,Hecarim,Teemo,GRRGRRR
-0,Hecarim,Thresh,GRGGRRR
+0,Hecarim,Thresh,GRGGROR
 0,Hecarim,Tristana,RRRGRRR
 0,Hecarim,Trundle,GORGGRR
 0,Hecarim,Tryndamere,GRRRGRR
@@ -6907,11 +6907,11 @@
 0,Hecarim,Vayne,RRRGRRR
 0,Hecarim,Veigar,GRRGRRR
 0,Hecarim,Vel'Koz,GRRGRRR
-0,Hecarim,Vex,RRRGRRR
+0,Hecarim,Vex,RRRGROR
 0,Hecarim,Vi,RGRGGRG
-0,Hecarim,Viego,GGGRGRR
+0,Hecarim,Viego,GGGRGGR
 0,Hecarim,Viktor,GRRGRRR
-0,Hecarim,Vladimir,GRRRRRR
+0,Hecarim,Vladimir,GRRRROR
 0,Hecarim,Volibear,GORGGRR
 0,Hecarim,Warwick,GORGGRR
 0,Hecarim,Wukong,GORGGRR
@@ -6920,7 +6920,7 @@
 0,Hecarim,Xin Zhao,GGRGGRR
 0,Hecarim,Yasuo,GRRRGRR
 0,Hecarim,Yone,GRRRGRR
-0,Hecarim,Yorick,GRRGGRR
+0,Hecarim,Yorick,GRRGGOR
 0,Hecarim,Yuumi,RRRGRRR
 0,Hecarim,Zac,GGRRGRR
 0,Hecarim,Zed,GRRRGRG
@@ -7414,7 +7414,7 @@
 0,Irelia,Xerath,RORGRRR
 0,Irelia,Xin Zhao,RROGGOG
 0,Irelia,Yasuo,ROORGGR
-0,Irelia,Yone,RGORGRR
+0,Irelia,Yone,RGORGGR
 0,Irelia,Yorick,ROOGGRR
 0,Irelia,Yuumi,GRRGRRR
 0,Irelia,Zac,RRRRGRR
@@ -7579,7 +7579,7 @@
 0,Ivern,Xerath,GRRGGRR
 0,Ivern,Xin Zhao,GGOGROR
 0,Ivern,Yasuo,GRORROR
-0,Ivern,Yone,GRGRRRR
+0,Ivern,Yone,GRGRROR
 0,Ivern,Yorick,GRGGRRR
 0,Ivern,Yuumi,RROGGRR
 0,Ivern,Zac,GGRRRRR
@@ -8404,7 +8404,7 @@
 0,Jhin,Xerath,GRRGGRR
 0,Jhin,Xin Zhao,GROGROR
 0,Jhin,Yasuo,GRORRGR
-0,Jhin,Yone,GRORRRR
+0,Jhin,Yone,GRORRGR
 0,Jhin,Yorick,GROGRRR
 0,Jhin,Yuumi,RRRGGRR
 0,Jhin,Zac,GRRRRRR
@@ -8950,7 +8950,7 @@
 0,Kalista,Gragas,RRRGRRR
 0,Kalista,Graves,RRRGGRR
 0,Kalista,Gwen,GRRGRGR
-0,Kalista,Hecarim,RRGGRRR
+0,Kalista,Hecarim,RRGGRGR
 0,Kalista,Heimerdinger,RRRGGRR
 0,Kalista,Illaoi,GRRGRRR
 0,Kalista,Irelia,GRRGRRR
@@ -9229,7 +9229,7 @@
 0,Karma,Xerath,RORGGRG
 0,Karma,Xin Zhao,RROGROR
 0,Karma,Yasuo,RRORRGR
-0,Karma,Yone,RRORRRR
+0,Karma,Yone,RRORRGR
 0,Karma,Yorick,RROGRRG
 0,Karma,Yuumi,GGRGGRR
 0,Karma,Zac,RRRRRRR
@@ -9280,7 +9280,7 @@
 0,Karthus,Gragas,GORGRRR
 0,Karthus,Graves,GGRGGRR
 0,Karthus,Gwen,RRRGROR
-0,Karthus,Hecarim,GGGGRRR
+0,Karthus,Hecarim,GGGGROR
 0,Karthus,Heimerdinger,GRRGGRG
 0,Karthus,Illaoi,RRRGRRR
 0,Karthus,Irelia,RRRGRRR
@@ -10054,7 +10054,7 @@
 0,Kayn,Xerath,GRRGROR
 0,Kayn,Xin Zhao,GGOGGOR
 0,Kayn,Yasuo,GRORGOR
-0,Kayn,Yone,GRORGRR
+0,Kayn,Yone,GRORGOR
 0,Kayn,Yorick,GROGGRR
 0,Kayn,Yuumi,RROGRRR
 0,Kayn,Zac,GGRRGRR
@@ -10219,7 +10219,7 @@
 0,Kennen,Xerath,GRRRGRR
 0,Kennen,Xin Zhao,GRRRRRG
 0,Kennen,Yasuo,GRRRRRR
-0,Kennen,Yone,GORRRGR
+0,Kennen,Yone,GORRRRR
 0,Kennen,Yorick,GGRRRRR
 0,Kennen,Yuumi,RRRRGRR
 0,Kennen,Zac,GRRRRRR
@@ -11209,7 +11209,7 @@
 0,Lee Sin,Xerath,GRRRRRG
 0,Lee Sin,Xin Zhao,GGORGOR
 0,Lee Sin,Yasuo,GRORGGR
-0,Lee Sin,Yone,GRORGRR
+0,Lee Sin,Yone,GRORGGR
 0,Lee Sin,Yorick,GRORGRG
 0,Lee Sin,Yuumi,RRRRRRR
 0,Lee Sin,Zac,GGRRGRR
@@ -11539,7 +11539,7 @@
 0,Lillia,Xerath,RRRGRRR
 0,Lillia,Xin Zhao,RGRGGOR
 0,Lillia,Yasuo,RRRRGGR
-0,Lillia,Yone,RRRRGRG
+0,Lillia,Yone,RRRRGGG
 0,Lillia,Yorick,RRRGGRR
 0,Lillia,Yuumi,GRRGRRR
 0,Lillia,Zac,RGRRGRR
@@ -11755,7 +11755,7 @@
 0,Lucian,Gragas,GRGGRRR
 0,Lucian,Graves,GRGGGRR
 0,Lucian,Gwen,RROGROR
-0,Lucian,Hecarim,GRRGRRR
+0,Lucian,Hecarim,GRRGROR
 0,Lucian,Heimerdinger,GRRGGRR
 0,Lucian,Illaoi,RROGRRR
 0,Lucian,Irelia,RROGRRR
@@ -12580,7 +12580,7 @@
 0,Maokai,Gragas,GORGGRR
 0,Maokai,Graves,GORGRRG
 0,Maokai,Gwen,RRRGGOR
-0,Maokai,Hecarim,GORGGRR
+0,Maokai,Hecarim,GORGGOR
 0,Maokai,Heimerdinger,GORGRRR
 0,Maokai,Illaoi,RRRGGRR
 0,Maokai,Irelia,RRRGGRR
@@ -12859,7 +12859,7 @@
 0,Master Yi,Xerath,GRRGRRR
 0,Master Yi,Xin Zhao,GGOGGOR
 0,Master Yi,Yasuo,GRORGGR
-0,Master Yi,Yone,GRORGRR
+0,Master Yi,Yone,GRORGGR
 0,Master Yi,Yorick,GROGGRR
 0,Master Yi,Yuumi,RRRGRRR
 0,Master Yi,Zac,GGRRGRR
@@ -16489,7 +16489,7 @@
 0,Rakan,Xerath,GORGRRR
 0,Rakan,Xin Zhao,GRRGGOR
 0,Rakan,Yasuo,GRRRGGR
-0,Rakan,Yone,GRRRGRR
+0,Rakan,Yone,GRRRGGR
 0,Rakan,Yorick,GRRGGRR
 0,Rakan,Yuumi,RGRGRRR
 0,Rakan,Zac,GRRRGRR
@@ -17644,7 +17644,7 @@
 0,Riven,Xerath,RRRRRRG
 0,Riven,Xin Zhao,RRGRGOR
 0,Riven,Yasuo,RRORGOR
-0,Riven,Yone,ROOGGRR
+0,Riven,Yone,ROOGGOR
 0,Riven,Yorick,RGORGRG
 0,Riven,Yuumi,GRRRRRR
 0,Riven,Zac,RRRRGRR
@@ -18520,7 +18520,7 @@
 0,Senna,Gragas,RROGRRR
 0,Senna,Graves,RROGGRR
 0,Senna,Gwen,GROGROR
-0,Senna,Hecarim,RROGRRR
+0,Senna,Hecarim,RROGROR
 0,Senna,Heimerdinger,RORGGRR
 0,Senna,Illaoi,GROGRRR
 0,Senna,Irelia,GROGRRR
@@ -18799,7 +18799,7 @@
 0,Sett,Xerath,GRRRRRR
 0,Sett,Xin Zhao,GRORGOR
 0,Sett,Yasuo,GRORGGR
-0,Sett,Yone,GOORGRG
+0,Sett,Yone,GOORGGG
 0,Sett,Yorick,GGORGRR
 0,Sett,Yuumi,RRRRRRR
 0,Sett,Zac,GRRRGRR
@@ -19129,7 +19129,7 @@
 0,Shen,Xerath,GRRRRRR
 0,Shen,Xin Zhao,GRORGOG
 0,Shen,Yasuo,GRORGGR
-0,Shen,Yone,GOORGRR
+0,Shen,Yone,GOORGGR
 0,Shen,Yorick,GGORGRR
 0,Shen,Yuumi,RRRRRRR
 0,Shen,Zac,GRRRGRR
@@ -20119,7 +20119,7 @@
 0,Sona,Xerath,RORGGRR
 0,Sona,Xin Zhao,RROGROG
 0,Sona,Yasuo,RRGRROR
-0,Sona,Yone,RRORRRR
+0,Sona,Yone,RRORROR
 0,Sona,Yorick,RROGRRR
 0,Sona,Yuumi,GGRGGRR
 0,Sona,Zac,RRRRRRR
@@ -20284,7 +20284,7 @@
 0,Soraka,Xerath,RORGGRR
 0,Soraka,Xin Zhao,RRRGROR
 0,Soraka,Yasuo,RRRRROR
-0,Soraka,Yone,RRRRRRR
+0,Soraka,Yone,RRRRROR
 0,Soraka,Yorick,RRRGRRR
 0,Soraka,Yuumi,GGRGGRR
 0,Soraka,Zac,RRRRRRR
@@ -20779,7 +20779,7 @@
 0,Syndra,Xerath,RORGGRR
 0,Syndra,Xin Zhao,RROGROR
 0,Syndra,Yasuo,RGGRRGR
-0,Syndra,Yone,ROORRRR
+0,Syndra,Yone,ROORRGR
 0,Syndra,Yorick,RROGRRR
 0,Syndra,Yuumi,GRRGGRR
 0,Syndra,Zac,RRRRRRR
@@ -21655,7 +21655,7 @@
 0,Thresh,Gragas,GRRGRRR
 0,Thresh,Graves,GRRGGRR
 0,Thresh,Gwen,RRRGROR
-0,Thresh,Hecarim,GRGGRRR
+0,Thresh,Hecarim,GRGGROR
 0,Thresh,Heimerdinger,GORGGRR
 0,Thresh,Illaoi,RRRGRRR
 0,Thresh,Irelia,RRRGRRR
@@ -22759,7 +22759,7 @@
 0,Udyr,Xerath,GRRGRRR
 0,Udyr,Xin Zhao,GOOGGOR
 0,Udyr,Yasuo,GRORGOR
-0,Udyr,Yone,GOORGRR
+0,Udyr,Yone,GOORGOR
 0,Udyr,Yorick,GOOGGRR
 0,Udyr,Yuumi,RRRGRRR
 0,Udyr,Zac,GORRGRR
@@ -23089,7 +23089,7 @@
 0,Varus,Xerath,GORGGOR
 0,Varus,Xin Zhao,GROGROR
 0,Varus,Yasuo,GOORROR
-0,Varus,Yone,GOORRRR
+0,Varus,Yone,GOORROR
 0,Varus,Yorick,GROGRRR
 0,Varus,Yuumi,RRRGGRR
 0,Varus,Zac,GRRRRRR
@@ -23635,7 +23635,7 @@
 0,Vex,Gragas,RRRGRRR
 0,Vex,Graves,RRRGGRR
 0,Vex,Gwen,GRRGROG
-0,Vex,Hecarim,RRRGRRR
+0,Vex,Hecarim,RRRGROR
 0,Vex,Heimerdinger,ROGGGRR
 0,Vex,Illaoi,GRRGRRR
 0,Vex,Irelia,GORGRRR
@@ -23965,7 +23965,7 @@
 0,Viego,Gragas,GORRGRR
 0,Viego,Graves,GGRRRRR
 0,Viego,Gwen,RRRRGGG
-0,Viego,Hecarim,GGGRGRR
+0,Viego,Hecarim,GGGRGGR
 0,Viego,Heimerdinger,GRRRRRR
 0,Viego,Illaoi,RRRRGRR
 0,Viego,Irelia,RRRRGRR
@@ -24295,7 +24295,7 @@
 0,Vladimir,Gragas,GRORRRG
 0,Vladimir,Graves,GRORGRR
 0,Vladimir,Gwen,RRGRROR
-0,Vladimir,Hecarim,GRRRRRR
+0,Vladimir,Hecarim,GRRRROR
 0,Vladimir,Heimerdinger,GORRGRR
 0,Vladimir,Illaoi,RRORRRR
 0,Vladimir,Irelia,ROORRRG
@@ -24904,7 +24904,7 @@
 0,Wukong,Xerath,GRRGRRG
 0,Wukong,Xin Zhao,GORGGOR
 0,Wukong,Yasuo,GRRRGGR
-0,Wukong,Yone,GORRGRR
+0,Wukong,Yone,GORRGGR
 0,Wukong,Yorick,GORGGRG
 0,Wukong,Yuumi,RRRGRRR
 0,Wukong,Zac,GORRGRR
@@ -25069,7 +25069,7 @@
 0,Xayah,Xerath,RRRGGRR
 0,Xayah,Xin Zhao,RRRGROR
 0,Xayah,Yasuo,RRRRRGR
-0,Xayah,Yone,RRRRRRR
+0,Xayah,Yone,RRRRRGR
 0,Xayah,Yorick,RRRGRRR
 0,Xayah,Yuumi,GRRGGRR
 0,Xayah,Zac,RRRRRRR
@@ -25399,7 +25399,7 @@
 0,Xin Zhao,Xerath,GRRGRRR
 0,Xin Zhao,Xin Zhao,GGGGGGG
 0,Xin Zhao,Yasuo,GRORGOR
-0,Xin Zhao,Yone,GRORGRR
+0,Xin Zhao,Yone,GRORGOR
 0,Xin Zhao,Yorick,GROGGRR
 0,Xin Zhao,Yuumi,RRRGRRR
 0,Xin Zhao,Zac,GGRRGRR
@@ -25564,7 +25564,7 @@
 0,Yasuo,Xerath,GORRRRR
 0,Yasuo,Xin Zhao,GRORGOR
 0,Yasuo,Yasuo,GGGGGGG
-0,Yasuo,Yone,GOORGRR
+0,Yasuo,Yone,GOORGGR
 0,Yasuo,Yorick,GRORGRR
 0,Yasuo,Yuumi,RRRRRRR
 0,Yasuo,Zac,GRRRGRG
@@ -25576,7 +25576,7 @@
 0,Yasuo,Zyra,RRRRRRR
 0,Yone,Aatrox,GORGGRR
 0,Yone,Ahri,RORRRRR
-0,Yone,Akali,RGORGRR
+0,Yone,Akali,RGORGGR
 0,Yone,Akshan,GGORRRR
 0,Yone,Alistar,GRRRGRR
 0,Yone,Amumu,GRRRGRR
@@ -25618,32 +25618,32 @@
 0,Yone,Hecarim,GRRRGRR
 0,Yone,Heimerdinger,GORRRRR
 0,Yone,Illaoi,ROORGRR
-0,Yone,Irelia,RGORGRR
-0,Yone,Ivern,GRGRRRR
+0,Yone,Irelia,RGORGGR
+0,Yone,Ivern,GRGRROR
 0,Yone,Janna,RRRRRRR
 0,Yone,Jarvan IV,GRORGRR
 0,Yone,Jax,GORRGRR
 0,Yone,Jayce,GGORORR
-0,Yone,Jhin,GRORRRR
+0,Yone,Jhin,GRORRGR
 0,Yone,Jinx,RRORRRR
 0,Yone,K'Sante,GOORGRR
 0,Yone,Kai'Sa,RRORRRR
 0,Yone,Kalista,RRRRRRR
-0,Yone,Karma,RRORRRR
+0,Yone,Karma,RRORRGR
 0,Yone,Karthus,GRRRRRR
 0,Yone,Kassadin,GOORGRR
 0,Yone,Katarina,ROOGGRR
 0,Yone,Kayle,ROORORR
-0,Yone,Kayn,GRORGRR
-0,Yone,Kennen,GORRRGR
+0,Yone,Kayn,GRORGOR
+0,Yone,Kennen,GORRRRR
 0,Yone,Kha'Zix,GRRRGRR
 0,Yone,Kindred,RRRRRRR
 0,Yone,Kled,GORRGRR
 0,Yone,Kog'Maw,GRRRRRR
 0,Yone,LeBlanc,ROGRRRR
-0,Yone,Lee Sin,GRORGRR
+0,Yone,Lee Sin,GRORGGR
 0,Yone,Leona,RRORGRR
-0,Yone,Lillia,RRRRGRG
+0,Yone,Lillia,RRRRGGG
 0,Yone,Lissandra,ROORRRR
 0,Yone,Lucian,GRORRRR
 0,Yone,Lulu,RRRRRRR
@@ -25651,7 +25651,7 @@
 0,Yone,Malphite,GORRGRR
 0,Yone,Malzahar,GOORRRR
 0,Yone,Maokai,GRRRGRR
-0,Yone,Master Yi,GRORGRR
+0,Yone,Master Yi,GRORGGR
 0,Yone,Millio,GRORRRR
 0,Yone,Miss Fortune,RRORRRR
 0,Yone,Mordekaiser,GORRGRR
@@ -25673,33 +25673,33 @@
 0,Yone,Pyke,GRRRGRR
 0,Yone,Qiyana,ROORGRR
 0,Yone,Quinn,ROORRRR
-0,Yone,Rakan,GRRRGRR
+0,Yone,Rakan,GRRRGGR
 0,Yone,Rammus,GRRRGRR
 0,Yone,Rek'Sai,RRRRGRR
 0,Yone,Rell,RRORGRG
 0,Yone,Renata Glasc,RRORRRR
 0,Yone,Renekton,GORRGRR
 0,Yone,Rengar,GORRGRR
-0,Yone,Riven,ROOGGRR
+0,Yone,Riven,ROOGGOR
 0,Yone,Rumble,GGRRGRR
 0,Yone,Ryze,GGGRRRR
 0,Yone,Samira,RRORRRG
 0,Yone,Seraphine,RRORRRG
 0,Yone,Sejuani,RRORGRR
 0,Yone,Senna,RRORRRR
-0,Yone,Sett,GOORGRG
+0,Yone,Sett,GOORGGG
 0,Yone,Shaco,GRRRGRR
-0,Yone,Shen,GOORGRR
+0,Yone,Shen,GOORGGR
 0,Yone,Shyvana,RRORGRR
 0,Yone,Singed,GOORGRR
 0,Yone,Sion,GORRGRR
 0,Yone,Sivir,RRORRRR
 0,Yone,Skarner,GRRRGRR
-0,Yone,Sona,RRORRRR
-0,Yone,Soraka,RRRRRRR
+0,Yone,Sona,RRORROR
+0,Yone,Soraka,RRRRROR
 0,Yone,Swain,GOGRRRR
 0,Yone,Sylas,GOORGRR
-0,Yone,Syndra,ROORRRR
+0,Yone,Syndra,ROORRGR
 0,Yone,Tahm Kench,GORRGRR
 0,Yone,Taliyah,ROORRRR
 0,Yone,Talon,GOORGRR
@@ -25711,9 +25711,9 @@
 0,Yone,Tryndamere,GOGRGRR
 0,Yone,Twisted Fate,GOORRRR
 0,Yone,Twitch,GRRRRRR
-0,Yone,Udyr,GOORGRR
+0,Yone,Udyr,GOORGOR
 0,Yone,Urgot,GOORRRR
-0,Yone,Varus,GOORRRR
+0,Yone,Varus,GOORROR
 0,Yone,Vayne,ROORRRR
 0,Yone,Veigar,GORRRRR
 0,Yone,Vel'Koz,GORRRRR
@@ -25724,16 +25724,16 @@
 0,Yone,Vladimir,GOGRRRR
 0,Yone,Volibear,GORRGRR
 0,Yone,Warwick,GOORGRR
-0,Yone,Wukong,GORRGRR
-0,Yone,Xayah,RRRRRRR
+0,Yone,Wukong,GORRGGR
+0,Yone,Xayah,RRRRRGR
 0,Yone,Xerath,GORRRRR
-0,Yone,Xin Zhao,GRORGRR
-0,Yone,Yasuo,GOORGRR
+0,Yone,Xin Zhao,GRORGOR
+0,Yone,Yasuo,GOORGGR
 0,Yone,Yone,GGGGGGG
 0,Yone,Yorick,GOGRGRR
 0,Yone,Yuumi,RRORRRR
 0,Yone,Zac,GRRRGRR
-0,Yone,Zed,GOGRGRR
+0,Yone,Zed,GOGRGGR
 0,Yone,Zeri,RRORRRR
 0,Yone,Ziggs,GORRRRR
 0,Yone,Zilean,GRORRRR
@@ -25780,7 +25780,7 @@
 0,Yorick,Gragas,GOOGGRR
 0,Yorick,Graves,GROGRRG
 0,Yorick,Gwen,RGGGGOR
-0,Yorick,Hecarim,GRRGGRR
+0,Yorick,Hecarim,GRRGGOR
 0,Yorick,Heimerdinger,GRRGRRR
 0,Yorick,Illaoi,RGOGGRR
 0,Yorick,Irelia,ROOGGRR
@@ -26389,7 +26389,7 @@
 0,Zed,Xerath,GORRRRR
 0,Zed,Xin Zhao,GRORGOR
 0,Zed,Yasuo,GGORGGR
-0,Zed,Yone,GOGRGRR
+0,Zed,Yone,GOGRGGR
 0,Zed,Yorick,GRGRGRR
 0,Zed,Yuumi,RRORRRR
 0,Zed,Zac,GRRRGRR

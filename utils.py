@@ -81,7 +81,7 @@ def get_comparison_from_champs(df):
                 )
             ]
         )
-        relations_df.reset_index(drop=True, inplace=True)
+    relations_df.reset_index(drop=True, inplace=True)
     return relations_df
 
 def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champion) -> str:
