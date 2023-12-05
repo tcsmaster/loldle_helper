@@ -143,8 +143,8 @@ def sanitised_input(prompt, question, type_ = str,champs_list=None):
             print('This type of question has not been implemented!')
             return
 
-def update_championsdf_with_new_champ(
-    new_champ:Champion,
+def update_championsdf_with_champ(
+    champ:Champion,
     champions_df:pd.DataFrame,
     folder:str,
     extension = '.pkl'
@@ -153,7 +153,7 @@ def update_championsdf_with_new_champ(
         [
             champions_df,
             pd.DataFrame(
-                [new_champ.__dict__])
+                [champ.__dict__])
         ]
     )
     champions_df.sort_values(by = 'Name',inplace=True)
@@ -163,33 +163,43 @@ def update_championsdf_with_new_champ(
 
 def update_relationsdf_with_new_champ(
     new_champ:Champion,
-    champions_df,
+    champions_df:pd.DataFrame,
     path:str,
-    extension = '.csv'
-    ):
+    extension = '.csv',
+    is_new_champ=True
+):
     a = [Champion(**champions_df.iloc[i, :]) for i in range(champions_df.shape[0])]
-    new_champ = a[champions_df.loc[champions_df['Name'] == new_champ.Name].index[0]]
+    new_champ = a[champions_df.loc[champions_df['Name'] == champ.Name].index[0]]
     combi = [(new_champ, el) for el in a]
     combi.extend([(el, new_champ) for el in a])
-    for el in combi:
-            relations_df = pd.concat(
-                [
-                    relations_df,
-                    pd.DataFrame(
-                        [
-                            {
-                                'Guessed_Champion':el[0].Name,
-                                'Actual_Champion':el[1].Name,
-                                'Comparison':get_result_of_comparison(el[0], el[1])
+    if is_new_champ:
+        for el in combi:
+                relations_df = pd.concat(
+                    [
+                        relations_df,
+                        pd.DataFrame(
+                            [
+                                {
+                                    'Guessed_Champion':el[0].Name,
+                                    'Actual_Champion':el[1].Name,
+                                    'Comparison':get_result_of_comparison(el[0], el[1])
 
-                            }
-                        ]
-                    )
-                ]
-            )
+                                }
+                            ]
+                        )
+                    ]
+                )
+    else:
+       for el in combi:
+        
     relations_df.sort_values(
         by = ['Guessed_Champion', 'Actual_Champion'],
         inplace=True
     )
     relations_df.reset_index(drop=True, inplace=True)
     relations_df.to_csv(path)
+
+def patch_relations_df(
+    effected_champ,
+    champs_df
+):
