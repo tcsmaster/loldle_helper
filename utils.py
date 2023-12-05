@@ -4,6 +4,7 @@ import pandas as pd
 from itertools import product
 from pydantic import BaseModel
 from typing import List
+from scipy.special import k0
 from scipy.stats import entropy
 
 class Champion(BaseModel):
@@ -80,6 +81,7 @@ def get_comparison_from_champs(df):
                 )
             ]
         )
+        relations_df.reset_index(drop=True, inplace=True)
     return relations_df
 
 def get_result_of_comparison(guessed_champion:Champion, candidate_champion:Champion) -> str:
@@ -161,17 +163,17 @@ def update_championsdf_with_champ(
     champions_df.to_pickle(path)
     return
 
-def update_relationsdf_with_new_champ(
-    new_champ:Champion,
+def update_relationsdf_with_champ(
+    champ:Champion,
     champions_df:pd.DataFrame,
     path:str,
     extension = '.csv',
     is_new_champ=True
 ):
     a = [Champion(**champions_df.iloc[i, :]) for i in range(champions_df.shape[0])]
-    new_champ = a[champions_df.loc[champions_df['Name'] == champ.Name].index[0]]
-    combi = [(new_champ, el) for el in a]
-    combi.extend([(el, new_champ) for el in a])
+    champ = a[champions_df.loc[champions_df['Name'] == champ.Name].index[0]]
+    combi = [(champ, el) for el in a]
+    combi.extend([(el, champ) for el in a])
     if is_new_champ:
         for el in combi:
                 relations_df = pd.concat(
@@ -189,17 +191,15 @@ def update_relationsdf_with_new_champ(
                         )
                     ]
                 )
-    else:
-       for el in combi:
-        
-    relations_df.sort_values(
+        relations_df.sort_values(
         by = ['Guessed_Champion', 'Actual_Champion'],
         inplace=True
-    )
-    relations_df.reset_index(drop=True, inplace=True)
-    relations_df.to_csv(path)
-
-def patch_relations_df(
-    effected_champ,
-    champs_df
-):
+        )
+        relations_df.reset_index(drop=True, inplace=True)
+    else:
+       for el in combi:
+            relations_df.loc[
+                (relations_df['Guessed_Champion'] == el[0])\
+               &(relations_df['Actual_Champion'] == el[1]), 'Comparison'
+            ] = get_result_of_comparison(el[0], el[1])    
+    relations_df.to_csv(path + extension)
